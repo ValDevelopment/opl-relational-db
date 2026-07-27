@@ -1,0 +1,1402 @@
+meet_id,Date,MeetCountry,MeetState,MeetTown,MeetName,Federation,ParentFederation,Tested,Sanctioned
+1,2025-08-17,Australia,NSW,,East Coast Open,APLA,IPF,Yes,Yes
+2,2024-10-20,Australia,SA,,AUPC Powerlifting Open,APLA,IPF,Yes,Yes
+3,2024-08-04,Australia,NSW,,XGYM Break All Limits Open IV,APLA,IPF,Yes,Yes
+4,2025-03-22,Australia,VIC,,Elemental Strength Autumn Showdown,APLA,IPF,Yes,Yes
+5,2025-02-16,Australia,NSW,,The Next Alpha Athlete pt.1,APLA,IPF,Yes,Yes
+6,2025-08-30,Australia,NSW,,Parageddon,APLA,IPF,Yes,Yes
+7,2024-08-18,Australia,NT,,Darwin Open,APLA,IPF,Yes,Yes
+8,2024-10-06,Australia,QLD,,Sunshine Coast Open,APLA,IPF,Yes,Yes
+9,2024-11-17,Australia,NSW,,The Next Alpha Athlete Competition,APLA,IPF,Yes,Yes
+10,2024-10-26,Australia,NSW,,The Hunter Showdown III,APLA,IPF,Yes,Yes
+11,2024-12-07,Australia,QLD,,Classic & Equipped Bench Only Nationals,APLA,IPF,Yes,Yes
+12,2025-08-02,Australia,TAS,,Tasmania Cup,APLA,IPF,Yes,Yes
+13,2026-04-12,Australia,TAS,Burnie,North West Open - Novice,APLA,IPF,Yes,No
+14,2025-11-22,Australia,WA,,Grand Prix,APLA,IPF,Yes,Yes
+15,2025-10-26,Australia,VIC,,Champion of the Collective - SRSC,APLA,IPF,Yes,Yes
+16,2024-05-04,Australia,QLD,,Alliance Day - PerforMotion: Alliance Reborn,APLA,IPF,Yes,Yes
+17,2025-11-08,Australia,NSW,,The Final Alpha Athlete,APLA,IPF,Yes,Yes
+18,2025-04-13,Australia,NSW,,Western Sydney Open 25.1,APLA,IPF,Yes,Yes
+19,2025-07-26,Australia,NSW,,First Nations Cup IV,APLA,IPF,Yes,Yes
+20,2025-10-19,Australia,ACT,,Australian Masters Games,APLA,IPF,Yes,Yes
+21,2025-08-24,Australia,NSW,,The Real McCloy 2,APLA,IPF,Yes,Yes
+22,2025-06-07,Australia,VIC,,TSF Team Champs,APLA,IPF,Yes,Yes
+23,2025-11-15,Australia,VIC,,Unity Games,APLA,IPF,Yes,No
+24,2024-11-09,Australia,QLD,,Perf Cup II,APLA,IPF,Yes,Yes
+25,2025-11-02,Australia,NT,,Northern Strength Classic,APLA,IPF,Yes,Yes
+26,2024-05-11,Australia,WA,,The Rumble,APLA,IPF,Yes,Yes
+27,2024-04-13,Australia,NSW,,HPC Anniversary Cup IV,APLA,IPF,Yes,Yes
+28,2025-03-22,Australia,NSW,,City Strength HQ Open XXI,APLA,IPF,Yes,Yes
+29,2025-10-12,Australia,NSW,,Spooky Showdown IV,APLA,IPF,Yes,Yes
+30,2025-10-25,Australia,NSW,,SBD Australia Cup,APLA,IPF,Yes,Yes
+31,2024-03-16,Australia,NSW,,City Strength HQ Open XVIII,APLA,IPF,Yes,Yes
+32,2025-09-28,Australia,SA,,SA Strength Showdown,APLA,IPF,Yes,Yes
+33,2024-12-21,Australia,VIC,Ballarat,Stronghold Liftmas Party,APLA,IPF,Yes,Yes
+34,2025-04-12,Australia,VIC,,JPS Autumn Lift Off,APLA,IPF,Yes,Yes
+35,2026-03-28,Australia,VIC,,Apex Alliance Open IV,APLA,IPF,Yes,Yes
+36,2024-02-17,Australia,NSW,,The Real McCloy Bench Press Only,APLA,IPF,Yes,Yes
+37,2026-01-17,Australia,NSW,,City Strength HQ Open XXIV,APLA,IPF,Yes,Yes
+38,2025-12-13,Australia,NSW,,Warrior of the West X,APLA,IPF,Yes,Yes
+39,2025-07-26,Australia,VIC,,Avia Performance Winter Open,APLA,IPF,Yes,Yes
+40,2025-04-12,Australia,NSW,,Bunny Bar Bash,APLA,IPF,Yes,Yes
+41,2026-04-11,Australia,NSW,,Paragon Open II,APLA,IPF,Yes,Yes
+42,2025-11-02,Australia,VIC,,Apex Alliance Open III,APLA,IPF,Yes,Yes
+43,2024-09-15,Australia,ACT,,Strength In Solidarity,APLA,IPF,Yes,Yes
+44,2026-07-05,Australia,QLD,,2 Beau 2 Furious,APLA,IPF,Yes,Yes
+45,2025-12-06,Australia,VIC,,TSF Open,APLA,IPF,Yes,Yes
+46,2025-11-15,Australia,VIC,,Elemental Strength Spring Showdown,APLA,IPF,Yes,Yes
+47,2024-06-08,Australia,NSW,,Nationals Series: Masters & Equipped,APLA,IPF,Yes,Yes
+48,2024-10-05,Australia,WA,,Powermania,APLA,IPF,Yes,Yes
+49,2025-11-22,Australia,NSW,,City Strength HQ Open XXIII,APLA,IPF,Yes,Yes
+50,2024-08-10,Australia,QLD,,Heavy Metal Havoc 3,APLA,IPF,Yes,Yes
+51,2024-11-09,Australia,WA,,Volunteer Cup,APLA,IPF,Yes,Yes
+52,2025-12-06,Australia,TAS,,Classic and Equipped Bench Only Nationals,APLA,IPF,Yes,Yes
+53,2026-01-18,Australia,QLD,,Summer Sizzle,APLA,IPF,Yes,Yes
+54,2025-11-08,Australia,VIC,,Southern Showdown,APLA,IPF,Yes,Yes
+55,2024-09-28,Australia,VIC,,MD Strength Lift Off II,APLA,IPF,Yes,Yes
+56,2024-09-28,Australia,NSW,,All In Barbell: Strength Trials,APLA,IPF,Yes,Yes
+57,2026-07-04,Australia,TAS,,Tasmania Cup II,APLA,IPF,Yes,Yes
+58,2025-04-12,Australia,NSW,,Bunny Bar Bash - Novice,APLA,IPF,Yes,No
+59,2024-07-07,Australia,NSW,,First Nations Cup III,APLA,IPF,Yes,Yes
+60,2025-11-15,Australia,ACT,,Limelight - Novice,APLA,IPF,Yes,No
+61,2025-02-08,Australia,ACT,,Tribute,APLA,IPF,Yes,Yes
+62,2026-04-12,Australia,TAS,Burnie,North West Open,APLA,IPF,Yes,Yes
+63,2025-11-22,Australia,VIC,,Culture Cup VI,APLA,IPF,Yes,Yes
+64,2025-11-09,Australia,TAS,,Club Combat 2 - Raw Strength Championships,APLA,IPF,Yes,Yes
+65,2025-06-07,Australia,QLD,,Performotion Winter Lifting Open,APLA,IPF,Yes,Yes
+66,2025-04-05,Australia,NSW,,South Coast Championships,APLA,IPF,Yes,Yes
+67,2026-05-16,Australia,NSW,,Air Force One,APLA,IPF,Yes,Yes
+68,2025-02-21,Australia,WA,,Open Nationals,APLA,IPF,Yes,Yes
+69,2025-09-20,Australia,TAS,,Catalyst Strength Spring Up,APLA,IPF,Yes,Yes
+70,2025-02-02,Australia,WA,,SC Last Chance,APLA,IPF,Yes,Yes
+71,2025-03-15,Australia,TAS,,Mega Mass,APLA,IPF,Yes,Yes
+72,2024-11-30,Australia,QLD,,Heavy Metal Havoc 2,APLA,IPF,Yes,Yes
+73,2025-08-09,Australia,VIC,,Elemental Strength Winter Showdown,APLA,IPF,Yes,Yes
+74,2026-05-10,Australia,VIC,,State Championships,APLA,IPF,Yes,Yes
+75,2024-08-10,Australia,NSW,,Warrior of the West VII,APLA,IPF,Yes,Yes
+76,2024-05-04,Australia,TAS,,Alliance Day - Iron Jungle: The Rise of Powerlifting,APLA,IPF,Yes,Yes
+77,2026-01-17,Australia,VIC,,Nexus Performance New Era Strength Meet,APLA,IPF,Yes,Yes
+78,2024-05-04,Australia,NSW,,Alliance Day - Adonis Athletics Campbelltown: The Alliance Strikes Back,APLA,IPF,Yes,Yes
+79,2025-09-28,Australia,VIC,,MD Strength Slam Down,APLA,IPF,Yes,Yes
+80,2024-03-30,Australia,VIC,,C1 Easter Showdown,APLA,IPF,Yes,Yes
+81,2026-03-21,Australia,QLD,,Sunshine Coast Open 4,APLA,IPF,Yes,Yes
+82,2025-08-23,Australia,VIC,,Nightfall,APLA,IPF,Yes,Yes
+83,2025-11-01,Australia,QLD,,Sunshine Coast Open III,APLA,IPF,Yes,Yes
+84,2025-10-04,Australia,QLD,,Perf Cup III,APLA,IPF,Yes,Yes
+85,2026-05-09,Australia,NSW,,State Championships,APLA,IPF,Yes,Yes
+86,2026-02-13,Australia,VIC,,Classic Open Nationals,APLA,IPF,Yes,Yes
+87,2024-10-05,Australia,WA,,Night of Champions II,APLA,IPF,Yes,Yes
+88,2026-04-12,Australia,VIC,,TSF 9th Birthday Bash,APLA,IPF,Yes,Yes
+89,2025-04-05,Australia,QLD,,Sunshine Coast Open II,APLA,IPF,Yes,Yes
+90,2024-04-26,Australia,NSW,,Nationals Series: Junior & Sub-Junior Classic,APLA,IPF,Yes,Yes
+91,2024-11-17,Australia,VIC,,Apex Alliance Open,APLA,IPF,Yes,Yes
+92,2025-07-06,Australia,VIC,,Apex Alliance Open II,APLA,IPF,Yes,Yes
+93,2025-12-13,Australia,QLD,,The Townsville Christmas Cup,APLA,IPF,Yes,Yes
+94,2026-07-05,Australia,NSW,,Omni Fitness Open,APLA,IPF,Yes,Yes
+95,2026-02-28,Australia,TAS,,Trilogy 2,APLA,IPF,Yes,Yes
+96,2024-08-03,Australia,TAS,,Catalyst Strength Lift Off,APLA,IPF,Yes,Yes
+97,2024-11-16,Australia,TAS,,RAW Strength Championships - Club Combat,APLA,IPF,Yes,Yes
+98,2025-02-02,Australia,TAS,,The Big Roar,APLA,IPF,Yes,Yes
+99,2024-10-26,Australia,NSW,,SBD Australia Cup - Invitational,APLA,IPF,Yes,Yes
+100,2025-07-06,Australia,NSW,,XGYM Break All Limits Open VI,APLA,IPF,Yes,Yes
+101,2026-06-20,Australia,NSW,,South Coast Championships IV,APLA,IPF,Yes,Yes
+102,2025-07-12,Australia,NSW,,Barbell Geisha: Genesis,APLA,IPF,Yes,Yes
+103,2024-03-08,Australia,NSW,,Nationals Series: Open Classic,APLA,IPF,Yes,Yes
+104,2025-08-02,Australia,QLD,,Performotion: The Strength Standard,APLA,IPF,Yes,Yes
+105,2025-04-27,Australia,NSW,,The Next Alpha Athlete pt.2,APLA,IPF,Yes,Yes
+106,2024-11-23,Australia,NSW,Campbelltown,Warrior of the West VIII,APLA,IPF,Yes,Yes
+107,2025-02-01,Australia,NSW,,All In Barbell: Strength Trials II,APLA,IPF,Yes,Yes
+108,2026-05-16,Australia,NSW,,Air Force One - Novice,APLA,IPF,Yes,No
+109,2026-05-09,Australia,WA,,State Championships,APLA,IPF,Yes,Yes
+110,2025-12-06,Australia,NSW,,All In Barbell: Strength Trials III,APLA,IPF,Yes,Yes
+111,2025-09-20,Australia,WA,,Night of Champions III,APLA,IPF,Yes,Yes
+112,2024-10-19,Australia,NSW,,Beyond The Grave,APLA,IPF,Yes,Yes
+113,2025-04-27,Australia,VIC,,Clash at the Collective II,APLA,IPF,Yes,Yes
+114,2024-11-30,Australia,NSW,,Quiet Focus at GenFit,APLA,IPF,Yes,Yes
+115,2025-09-13,Australia,NSW,,Power Pals II,APLA,IPF,Yes,Yes
+116,2025-02-15,Australia,QLD,,Last Chance,APLA,IPF,Yes,Yes
+117,2025-04-27,Australia,WA,,The Iron Voyage,APLA,IPF,Yes,Yes
+118,2025-02-15,Australia,VIC,,Strength Culture Cup V,APLA,IPF,Yes,Yes
+119,2026-06-06,Australia,NSW,,The Next Alpha Athlete PT II,APLA,IPF,Yes,Yes
+120,2024-02-18,Australia,QLD,,The APA Showcase,APLA,IPF,Yes,Yes
+121,2025-09-07,Australia,WA,,Baxter Bench Bash,APLA,IPF,Yes,Yes
+122,2025-11-02,Australia,NSW,,XGYM Break All Limits Open VII,APLA,IPF,Yes,Yes
+123,2025-05-31,Australia,NSW,,Warrior of the West IX,APLA,IPF,Yes,Yes
+124,2024-06-29,Australia,NSW,,City Strength HQ Open XIX,APLA,IPF,Yes,Yes
+125,2025-08-03,Australia,NSW,,The Next Alpha Athlete PT 3,APLA,IPF,Yes,Yes
+126,2025-04-12,Australia,QLD,,Heavy Metal Havoc 3,APLA,IPF,Yes,Yes
+127,2024-07-13,Australia,NSW,,Iron Showdown,APLA,IPF,Yes,Yes
+128,2025-11-15,Australia,ACT,,Limelight,APLA,IPF,Yes,Yes
+129,2024-09-07,Australia,NSW,Campbelltown,Power Pals,APLA,IPF,Yes,Yes
+130,2024-11-09,Australia,VIC,,Stronghold Strength Showdown I,APLA,IPF,Yes,Yes
+131,2026-03-07,Australia,NSW,,The Next Alpha Athlete PT I,APLA,IPF,Yes,Yes
+132,2025-05-17,Australia,NSW,,Paragon Open I,APLA,IPF,Yes,Yes
+133,2025-03-09,Australia,NSW,,XGYM Break All Limits Open V,APLA,IPF,Yes,Yes
+134,2025-05-07,Australia,NSW,,Mega Nationals,APLA,IPF,Yes,Yes
+135,2024-05-19,Australia,NSW,,XGYM Break All Limits Open III,APLA,IPF,Yes,Yes
+136,2026-04-15,Australia,NSW,,Mega Nationals,APLA,IPF,Yes,Yes
+137,2024-10-26,Australia,NSW,,SBD Australia Cup - Open,APLA,IPF,Yes,Yes
+138,2024-12-01,Australia,NT,,Darwin Open II,APLA,IPF,Yes,Yes
+139,2026-06-27,Australia,NSW,,City Strength HQ Open XXV,APLA,IPF,Yes,Yes
+140,2025-05-17,Australia,VIC,,MVMT Showdown III,APLA,IPF,Yes,Yes
+141,2025-08-17,Australia,WA,,West Coast Open,APLA,IPF,Yes,Yes
+142,2026-02-28,Australia,TAS,,Trilogy 2 - Novice,APLA,IPF,Yes,No
+143,2024-12-14,Australia,NSW,,City Strength HQ Open XX,APLA,IPF,Yes,Yes
+144,2025-05-24,Australia,NSW,,City Strength HQ Open XXII,APLA,IPF,Yes,Yes
+145,2025-09-13,Australia,VIC,,TSF 8th Birthday Bash,APLA,IPF,Yes,Yes
+146,2013-05-20,Lithuania,,Kaunas,World Bench Press Championships,IPF,IPF,Yes,Yes
+147,2017-05-22,Lithuania,,Kaunas,World Bench Press Championships,IPF,IPF,Yes,Yes
+148,2022-10-08,Canada,NL,St. John's,World Masters Classic & Equipped Powerlifting Championships,IPF,IPF,Yes,Yes
+149,2013-09-24,USA,FL,Orlando,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+150,2002-10-08,Argentina,,Villa de Maria,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+151,2002-09-25,Taiwan,,Chia I,World Sub-Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+152,2007-09-12,Germany,,Schwedt,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+153,2001-10-17,Canada,SK,Moose Jaw,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+154,2005-07-14,Germany,,Duisburg,World Games,IPF,IPF,Yes,Yes
+155,2025-11-10,Romania,,Cluj-Napoca,World Open Equipped Powerlifting Championships,IPF,IPF,Yes,Yes
+156,2000-09-13,Taiwan,,Kao Ci,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+157,2021-11-08,Norway,,Stavanger,World Powerlifting Championships,IPF,IPF,Yes,Yes
+158,1996-10-07,India,,Delhi,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+159,2001-04-22,Russia,NIZ,Nizhny Novgorod,Student's World Cup,IPF,IPF,Yes,Yes
+160,2023-08-27,Romania,,Cluj Napoca,World Junior and Sub-Junior Classic Championships,IPF,IPF,Yes,Yes
+161,2012-05-21,Czechia,,Pilsen,World Bench Press Championships,IPF,IPF,Yes,Yes
+162,2012-06-12,Sweden,,Stockholm,World Classic Powerlifting Cup,IPF,IPF,Yes,Yes
+163,1987-09-08,Peru,,Lima,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+164,2008-10-30,Canada,NL,St Jon's,World Powerlifting Championships,IPF,IPF,Yes,Yes
+165,2014-11-03,USA,CO,Aurora,World Powerlifting Championships,IPF,IPF,Yes,Yes
+166,1973-11-09,USA,PA,Harrisburg,Men's World Powerlifting Championships,IPF,IPF,,Yes
+167,2019-05-18,Japan,,Tokyo,World Bench Press Championships,IPF,IPF,Yes,Yes
+168,1983-09-03,Canada,ON,London,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+169,2002-04-18,USA,TX,Killeen,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+170,1989-09-14,Sweden,,Nässjö,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+171,2021-10-03,UK,,Birmingham,Arnold UK,IPF,IPF,Yes,Yes
+172,1994-12-04,Finland,,Jarvenpaa,World Bench Press Championships,IPF,IPF,Yes,Yes
+173,1981-05-11,USA,HI,Hononlulu,Women's World Powerlifting Championship,IPF,IPF,Yes,Yes
+174,1997-12-05,Canada,,Leduc,World Disabled Bench Press Championships,IPF,IPF,Yes,Yes
+175,1989-07-20,Germany,,Karlsruhe,World Games,IPF,IPF,Yes,Yes
+176,2004-08-09,South Africa,,Pretoria,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+177,2015-09-28,USA,CO,Aurora,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+178,1985-09-20,Germany,,Soest,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+179,1984-05-19,USA,CA,Santa Monica,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+180,2018-07-09,Czechia,,Pilsen,3rd World University Powerlifting Cup,IPF,IPF,Yes,Yes
+181,1985-08-24,Canada,ON,Toronto,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+182,2003-09-09,Poland,,Koscian,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+183,1991-12-14,Germany,,Russelsheim,Disabled Bench Press World Championships,IPF,IPF,Yes,Yes
+184,2003-04-16,Czechia,,Nymburk,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+185,2014-09-21,Czechia,,Pilsen,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+186,1982-09-04,USA,NC,Greensboro,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+187,2017-10-01,Sweden,,Sundsvall,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+188,2011-08-30,Canada,SK,Moose Jaw,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+189,2018-10-02,Mongolia,,Ulaanbaatar,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+190,1998-12-11,Germany,,Amberg,World Bench Press Championships,IPF,IPF,Yes,Yes
+191,2005-09-07,USA,ID,Fort Wayne,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+192,2022-07-08,USA,AL,Birmingham,World Games,IPF,IPF,Yes,Yes
+193,2024-11-11,Iceland,,Reykjanesbaer,World Open Equipped Powerlifting Championships,IPF,IPF,Yes,Yes
+194,1990-05-23,Sweden,,Jonkoping,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+195,2007-10-14,Austria,,Soelden,World Powerlifting Championships,IPF,IPF,Yes,Yes
+196,2024-06-15,Lithuania,,Druskininkai,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+197,1986-10-03,Norway,,Sande,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+198,2024-02-10,UK,,Sheffield,Sheffield Powerlifting Championships,IPF,IPF,Yes,Yes
+199,2019-07-22,Estonia,,Tartu,University Powerlifting Cup,IPF,IPF,Yes,Yes
+200,1995-07-23,India,,New Delhi,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+201,2003-12-05,Slovakia,,Trencin,World Bench Press Championships,IPF,IPF,Yes,Yes
+202,2026-01-31,UK,,Sheffield,Sheffield Powerlifting Championships,IPF,IPF,Yes,Yes
+203,2009-07-01,Czechia,,Pilsen,World Sub-Juniors & Juniors Bench Press Championships,IPF,IPF,Yes,Yes
+204,2021-10-03,UK,,Birmingham,Arnold UK Bench Press,IPF,IPF,Yes,Yes
+205,2005-04-20,Czechia,,Zlin,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+206,1991-10-11,Uruguay,,Montevideo,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+207,2004-11-09,South Africa,,Cape Town,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+208,1982-11-04,Germany,,Munich,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+209,1993-12-10,Hungary,,Budapest,World Disabled Bench Press Championships,IPF,IPF,Yes,Yes
+210,2014-09-01,Hungary,,Oroshaza,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+211,1986-11-13,Netherlands,,The Hague,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+212,2023-05-20,South Africa,,Sun City,World Classic & Equipped Bench Press Championships,IPF,IPF,Yes,Yes
+213,1995-06-25,Czechia,,Frydek-Mistek,World Bench Press Championships,IPF,IPF,Yes,Yes
+214,1987-09-17,Peru,,Lima,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+215,2003-11-04,Denmark,,Vejle,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+216,2006-10-02,USA,TX,Killeen,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+217,1989-08-11,Germany,,Frankfurt,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+218,2001-11-15,Finland,,Sotkamo,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+219,2014-06-01,South Africa,,Potchefstroom,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+220,2015-04-16,USA,CO,Aurora,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+221,2021-10-22,Lithuania,,Vilnius,World Bench Press Championships,IPF,IPF,Yes,Yes
+222,1982-05-07,England,,Birmingham,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+223,1986-09-11,India,,Coshin,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+224,2001-04-13,Luxembourg,,Hamm,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+225,1996-12-01,Denmark,,Silkeborg,World Disabled Bench Press Championships,IPF,IPF,Yes,Yes
+226,1979-11-02,USA,OH,Dayton,Men's World Powerlifting Championships,IPF,IPF,,Yes
+227,1979-11-02,USA,OH,Dayton,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+228,1988-11-11,Australia,WA,Perth,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+229,2006-09-05,Bulgaria,,Sofia,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+230,2016-09-03,Poland,,Szczyrk,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+231,2026-06-13,Lithuania,,Druskininkai,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+232,2016-06-19,USA,TX,Killeen,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+233,2010-03-30,USA,FL,Orlando,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+234,1994-10-19,Slovakia,,Bratislava,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+235,2008-09-01,South Africa,,Potchefstroom,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+236,2021-07-08,Lithuania,,Vilnius,World University Powerlifting Cup,IPF,IPF,Yes,Yes
+237,1983-12-17,USA,FL,Miami,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+238,2000-12-08,Czechia,,Frydek-Mistek,World Disabled Bench Press Championships,IPF,IPF,Yes,Yes
+239,2002-09-10,Russia,KDA,Sochi,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+240,2022-11-14,Denmark,,Viborg,World Open Equipped Powerlifting Championships,IPF,IPF,Yes,Yes
+241,2011-04-13,Denmark,,Rodby,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+242,1990-09-20,Norway,,Seinkjer,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+243,2000-05-24,Argentina,,Buenos Aires,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+244,2025-07-16,Turkey,,Istanbul,World University Powerlifting Cup,IPF,IPF,Yes,Yes
+245,2007-06-10,Czechia,,Ostrava,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+246,2003-10-08,Canada,SK,Regina,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+247,1981-11-05,India,WB,Calcutta,Men's World Powerlifting Championships,IPF,IPF,,Yes
+248,2021-09-23,Sweden,,Halmstad,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+249,1993-10-29,Canada,ON,Hamilton,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+250,2006-04-19,USA,,Miami,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+251,1996-12-01,Denmark,,Silkeborg,World Bench Press Championships,IPF,IPF,Yes,Yes
+252,2011-05-25,Austria,,Soelden,World Bench Press Championships,IPF,IPF,Yes,Yes
+253,2003-09-24,India,,New Delhi,World Sub-Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+254,2019-06-04,Sweden,,Helsingborg,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+255,2018-11-05,Sweden,,Halmstad,World Powerlifting Championships,IPF,IPF,Yes,Yes
+256,2008-04-16,Slovakia,,Bratislava,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+257,2025-10-10,South Africa,,Cape Town,World Classic & Equipped Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+258,2017-07-10,South Africa,,Potchefstroom,World University Powerlifting Cup,IPF,IPF,Yes,Yes
+259,2008-06-25,Czechia,,Prague,World Bench Press Championships,IPF,IPF,Yes,Yes
+260,1997-12-05,Canada,,Leduc,World Bench Press Championships,IPF,IPF,Yes,Yes
+261,2002-04-12,Russia,NGR,Veliky Novgorod,World Students Cup,IPF,IPF,Yes,Yes
+262,1987-05-31,Australia,WA,Perth,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+263,1986-05-08,Sweden,,Hestra,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+264,2025-06-08,Germany,,Chemnitz,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+265,1996-06-25,Canada,ON,Kitchener,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+266,1975-11-22,England,,Birmingham,Men's World Powerlifting Championships,IPF,IPF,,Yes
+267,2021-08-23,Romania,,Oradea,World Juniors Sub-Juniors & Masters Championships,IPF,IPF,Yes,Yes
+268,2015-05-20,Sweden,,Sundsvall,World Bench Press Championships,IPF,IPF,Yes,Yes
+269,2018-09-03,South Africa,,Potchefstroom,World Juniors & Sub-Juniors Championships,IPF,IPF,Yes,Yes
+270,2024-10-05,South Africa,,Sun City,World Classic & Equipped Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+271,2026-05-23,Poland,,Warsaw,World Classic & Equipped Bench Press Championships,IPF,IPF,Yes,Yes
+272,1983-11-10,Sweden,,Gothenburg,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+273,2024-08-28,Malta,,St. Paul's Bay,World Junior and Sub-Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+274,2024-07-13,Netherlands,,Amsterdam,Euro Muscle Show,IPF,IPF,Yes,Yes
+275,2009-09-07,Brazil,,Ribeirao Preto-SP,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+276,2005-01-12,Sweden,,Stockholm,World Open Bench Press Championships,IPF,IPF,Yes,Yes
+277,2013-08-27,USA,TX,Killeen,World Juniors & Sub-Juniors Championships,IPF,IPF,Yes,Yes
+278,2013-07-30,Colombia,,Cali,World Games,IPF,IPF,Yes,Yes
+279,2017-11-13,Czechia,,Pilsen,World Powerlifting Championships,IPF,IPF,Yes,Yes
+280,1994-05-25,New Zealand,BOP,Rotorua,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+281,1985-06-01,Austria,,Vienna,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+282,2001-09-16,Russia,KDA,Sochi,World Sub-Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+283,2016-11-14,USA,,Orlando,World Open Championships,IPF,IPF,Yes,Yes
+284,2012-08-28,Poland,,Poland,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+285,2023-11-13,Lithuania,,Druskininkai,World Open Equipped Powerlifting Championships,IPF,IPF,Yes,Yes
+286,2002-05-29,Germany,,Riesa,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+287,2023-07-18,Lebanon,,Beirut,Arab Cup,IPF,IPF,Yes,Yes
+288,2012-11-10,Puerto Rico,,Aguadilla,World Powerlifting Championships,IPF,IPF,Yes,Yes
+289,1997-09-12,Slovakia,,Bratislava,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+290,2011-11-08,Czechia,,Pilsen,World Powerlifting Championships,IPF,IPF,Yes,Yes
+291,1976-11-06,USA,PA,York,Men's World Powerlifting Championships,IPF,IPF,,Yes
+292,2001-05-24,Czechia,,Frydek-Mistek,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+293,2002-12-05,Luxembourg,,Hamm,World Bench Press Championships,IPF,IPF,Yes,Yes
+294,1998-12-11,Germany,,Amberg,World Disabled Bench Press Championships,IPF,IPF,Yes,Yes
+295,2013-04-18,Czechia,,Prague,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+296,1996-08-07,Finland,,Vassa,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+297,1997-06-18,South Africa,,Capetown,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+298,2010-05-24,USA,TX,Killeen,World Bench Press Championships,IPF,IPF,Yes,Yes
+299,1983-05-07,Australia,SA,Adelaide,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+300,2005-11-08,USA,FL,Florida,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+301,2024-07-23,Estonia,,Tartu,FISU World University Powerlifting Championships,IPF,IPF,Yes,Yes
+302,2016-07-11,Belarus,,Minsk,World University Powerlifting Cup,IPF,IPF,Yes,Yes
+303,1998-11-10,Ukraine,,Cherkasy,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+304,2001-08-21,Japan,,Akita,World Games,IPF,IPF,Yes,Yes
+305,1985-11-07,Finland,,Espoo,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+306,2022-08-27,Turkey,,Istanbul,World Junior Equipped Powerlifting Championships,IPF,IPF,Yes,Yes
+307,2016-10-03,Estonia,,Tallinn,World Masters Championships,IPF,IPF,Yes,Yes
+308,2014-05-20,Denmark,,Rodby,World Bench Press Championships,IPF,IPF,Yes,Yes
+309,2018-04-23,South Africa,,Potchefstroom,World Bench Press Championships,IPF,IPF,Yes,Yes
+310,2017-07-24,Poland,,Wroclaw,World Games,IPF,IPF,Yes,Yes
+311,2023-10-31,Slovenia,,Kranjska Gora,World University Powerlifting Cup,IPF,IPF,Yes,Yes
+312,2009-09-28,Czechia,,Ostrava,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+313,1988-09-07,Luxembourg,,,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+314,1997-12-13,Czechia,,Prague,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+315,2025-05-18,Norway,,Drammen,World Classic & Equipped Bench Press Championships,IPF,IPF,Yes,Yes
+316,1991-06-23,India,DL,New Delhi,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+317,2019-10-07,South Africa,,Potchefstroom,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+318,2013-06-11,Russia,VLA,Suzdal,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+319,2006-11-05,Norway,,Stavanger,World Powerlifting Championships,IPF,IPF,Yes,Yes
+320,2017-08-28,USA,,Orlando,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+321,2024-05-22,USA,TX,Austin,World Bench Press Championships,IPF,IPF,Yes,Yes
+322,2010-11-07,South Africa,,Potchefstroom,World Powerlifting Championships,IPF,IPF,Yes,Yes
+323,2018-05-14,Finland,,Vantaa,World Classic Bench Press Championships,IPF,IPF,Yes,Yes
+324,2023-08-24,Romania,,Cluj Napoca,World Junior and Sub-Junior Equipped Championships,IPF,IPF,Yes,Yes
+325,2001-12-07,New Zealand,CAN,Christchurch,World Bench Press Championships,IPF,IPF,Yes,Yes
+326,1993-10-26,Canada,ON,Hamilton,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+327,2025-01-26,UK,,Sheffield,Sheffield Powerlifting Championships,IPF,IPF,Yes,Yes
+328,2001-09-11,Bulgaria,,Sofia,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+329,2015-08-31,Czechia,,Prague,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+330,2013-11-04,Norway,,Stavanger,World Powerlifting Championships,IPF,IPF,Yes,Yes
+331,2009-11-02,India,,New Delhi,World Powerlifting Championships,IPF,IPF,Yes,Yes
+332,2019-11-18,UAE,,Dubai,World Powerlifting Championships,IPF,IPF,Yes,Yes
+333,1995-10-03,Denmark,,Copenhagen,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+334,1992-05-31,Belgium,,Ghent,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+335,2000-10-17,Czechia,,Usti Nad Labem,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+336,1978-11-02,Finland,,Turku,Men's World Powerlifting Championships,IPF,IPF,,Yes
+337,2007-09-03,France,,La Garde,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+338,1984-11-23,USA,TX,Dallas,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+339,2004-04-21,Slovakia,,Trencin,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+340,1977-11-03,Australia,WA,Perth,Men's World Powerlifting Championships,IPF,IPF,,Yes
+341,2006-05-23,Hungary,,Miskolc,World Bench Press Championships,IPF,IPF,Yes,Yes
+342,1980-11-07,USA,VA,Arlington,Men's World Powerlifting Championships,IPF,IPF,,Yes
+343,2009-04-15,New Zealand,WKO,Taupo,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+344,2005-05-26,Finland,,Ylitornio,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+345,2010-09-27,Czechia,,Pilsen,World Sub-Juniors & Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+346,2010-05-24,USA,TX,Killeen,World Sub-Juniors & Juniors Bench Press Championships,IPF,IPF,Yes,Yes
+347,2025-08-14,China,,Chengdu,World Games,IPF,IPF,Yes,Yes
+348,2011-09-26,Canada,ON,St Catharines,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+349,2007-05-29,Denmark,,Thisted,World Bench Press Championships,IPF,IPF,Yes,Yes
+350,1999-10-05,Czechia,,Nymburk,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+351,2012-10-02,USA,TX,Killeen,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+352,2000-11-15,Japan,,Akita,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+353,2017-06-14,Belarus,,Minsk,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+354,1988-07-28,England,,Milton Keyes,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+355,1997-10-14,Hungary,,Szégesfehérvár,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+356,2021-01-31,Iceland,,Reykjavík,Reykjavík International Games,KRAFT,IPF,Yes,Yes
+357,2009-05-27,Luxembourg,,Hamm,World Bench Press Championships,IPF,IPF,Yes,Yes
+358,2025-08-25,Costa Rica,,San Jose,World Junior and Sub-Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+359,2019-08-26,Canada,SK,Regina,World Juniors & Sub-Juniors Championships,IPF,IPF,Yes,Yes
+360,2008-09-30,USA,CA,Palm Springs,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+361,2004-05-03,France,,Cahors,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+362,1992-09-08,Australia,NSW,Sydney,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+363,1998-10-21,Hungary,,Györ,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+364,1994-06-18,Indonesia,,Denpasar,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+365,2003-04-12,Ukraine,,Cherkasy,World Students Cup,IPF,IPF,Yes,Yes
+366,2024-03-15,UK,,Birmingham,Arnold Sports Festival UK,IPF,IPF,Yes,Yes
+367,2012-04-20,USA,CO,Aurora,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+368,1992-09-03,Australia,NSW,Sydney,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+369,1981-07-25,USA,CA,Santa Clara,World Games,IPF,IPF,Yes,Yes
+370,2023-06-11,Malta,,St. Julians,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+371,2023-03-25,UK,,Sheffield,Sheffield Powerlifting Championships,IPF,IPF,Yes,Yes
+372,2015-11-09,Luxembourg,,Hamm,World Powerlifting Championships,IPF,IPF,Yes,Yes
+373,1999-12-09,Finland,,Vaasa,World Bench Press Championships,IPF,IPF,Yes,Yes
+374,1994-12-04,Finland,,Jarvenpaa,World Disabled Bench Press Championships,IPF,IPF,Yes,Yes
+375,2017-04-22,USA,TX,Killeen,World Classic Bench Press Championships,IPF,IPF,Yes,Yes
+376,2009-07-25,Taiwan,,Kaohsiung,World Games,IPF,IPF,Yes,Yes
+377,2022-10-31,Turkey,,Istanbul,World University Powerlifting Cup,IPF,IPF,Yes,Yes
+378,1984-12-13,Australia,WA,Perth,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+379,2016-04-19,Denmark,,Rodby,World Bench Press Championships,IPF,IPF,Yes,Yes
+380,2017-01-29,Iceland,,Reykjavík,Reykjavík International Games,IPF,IPF,Yes,Yes
+381,1999-05-19,Denmark,,Thisted,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+382,2014-04-17,England,,Northumberland,World Masters Bench Press Championships,IPF,IPF,Yes,Yes
+383,1988-05-06,Belgium,,Brussels,Women's World & European Powerlifting Championships,IPF,IPF,Yes,Yes
+384,2002-11-13,Slovakia,,Trencin,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+385,1990-10-13,Australia,WA,Perth,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+386,1974-11-09,USA,PA,York,Men's World Powerlifting Championships,IPF,IPF,,Yes
+387,2018-06-06,Canada,,Calgary,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+388,2022-08-31,Turkey,,Istanbul,World Junior Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+389,2022-01-30,Iceland,,Reykjavík,Reykjavik International Games,EPF,IPF,Yes,Yes
+390,2022-09-23,England,,Birmingham,Arnold Sports Festival,IPF,IPF,Yes,Yes
+391,1995-05-05,Japan,,Chiba,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+392,1999-11-17,Italy,,Trento,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+393,1991-09-05,Ivory Coast,,Abidjan,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+394,2015-06-05,Finland,,Salo,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+395,2000-12-08,Czechia,,Frydek-Mistek,World Bench Press Championships,IPF,IPF,Yes,Yes
+396,2005-10-04,South Africa,,Pretoria,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+397,1987-11-12,Norway,,Fredrikstad,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+398,1999-10-19,South Africa,,Sun City,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+399,2010-09-27,Czechia,,Pilsen,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+400,2003-05-22,USA,IL,Chicago,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+401,1984-09-20,Australia,,Perth,World Juniors Powerlifting Championships,IPF,IPF,Yes,Yes
+402,2022-05-21,Kazakhstan,,Almaty,World Bench Press Championships,IPF,IPF,Yes,Yes
+403,2004-12-02,USA,OH,Cleveland,World Bench Press Championships,IPF,IPF,Yes,Yes
+404,1992-12-08,Taiwan,,Kaohsiung,World Disabled Bench Press Championships,IPF,IPF,Yes,Yes
+405,1996-12-14,Austria,,Salzburg,Men's World Powerlifting Championships,IPF,IPF,Yes,Yes
+406,2023-10-08,Mongolia,,Ulaanbaatar,World Masters Classic & Equipped Powerlifting Championships,IPF,IPF,Yes,Yes
+407,1980-05-21,USA,MA,Lowell,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+408,1998-10-06,Argentina,,Villa Maria Cordoba,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+409,2022-06-06,South Africa,,Sun City,World Classic Powerlifting Championships,IPF,IPF,Yes,Yes
+410,1999-12-09,Finland,,Vaasa,World Disabled Bench Press Championships,IPF,IPF,Yes,Yes
+411,2016-05-15,South Africa,,Potchefstroom,World Classic Bench Press Championships,IPF,IPF,Yes,Yes
+412,2004-10-05,India,,Udaipur,World Masters Powerlifting Championships,IPF,IPF,Yes,Yes
+413,1998-05-23,Norway,,Mo I Rana,Women's World Powerlifting Championships,IPF,IPF,Yes,Yes
+414,1997-08-08,Finland,,Lahti,World Games,IPF,IPF,Yes,Yes
+415,2024-06-29,Peru,,,V Campeonato Nacional Open,FDNLP,IPF,Yes,Yes
+416,2023-03-29,Peru,,,IV Campeonato Nacional Juvenil,FDNLP,IPF,Yes,Yes
+417,2022-12-03,Netherlands,,Eindhoven,Odin Cup,KNKF-SP,IPF,Yes,Yes
+418,2017-04-29,Netherlands,ZE,Vlissingen,Dutch Juniors & Sub-Juniors Championships,KNKF-SP,IPF,Yes,Yes
+419,2024-11-30,Netherlands,,Eindhoven,Lichtstad Cup,KNKF-SP,IPF,Yes,Yes
+420,2022-06-12,Netherlands,,Geldrop,TOPFIT Cup Equipped,KNKF-SP,IPF,Yes,Yes
+421,2019-09-01,Netherlands,NB,Geldrop,Dutch Classic Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+422,2019-12-07,Netherlands,NB,Veldhoven,DRC Cup,KNKF-SP,IPF,Yes,Yes
+423,2025-07-06,Netherlands,,IJmuiden,Regiokampioenschappen West,KNKF-SP,IPF,Yes,Yes
+424,2025-06-21,Netherlands,,Weert,Masters NK Powerliften,KNKF-SP,IPF,Yes,Yes
+425,2021-10-30,Netherlands,,Nijmegen,SBD Cup Powerliften Classic,KNKF-SP,IPF,Yes,Yes
+426,2023-03-12,Netherlands,,Wezep,Open Bench Press Equipped Qualifier,KNKF-SP,IPF,Yes,Yes
+427,2014-02-23,Netherlands,NB,Tilburg,Dutch Equipped Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+428,2023-12-03,Netherlands,,Geldrop,Masters NK Powerliften,KNKF-SP,IPF,Yes,Yes
+429,2019-02-02,Netherlands,GR,Groningen,Northside Barbell Cup,KNKF-SP,IPF,Yes,Yes
+430,2021-07-04,Netherlands,,Apeldoorn,NK Bankdrukken Equipped,KNKF-SP,IPF,Yes,Yes
+431,2023-11-25,Netherlands,,Tilburg,Benelux Tournament,KNKF-SP,IPF,Yes,Yes
+432,2024-06-16,Netherlands,,Schiedam,Regiokampioenschappen West,KNKF-SP,IPF,Yes,Yes
+433,2015-11-22,Netherlands,ZH,Rotterdam,Dutch Equipped Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+434,2016-09-24,Netherlands,GE,Nijmegen,SBD Cup,KNKF-SP,IPF,Yes,Yes
+435,2025-09-13,Netherlands,,Rotterdam,Ascending Cup One,KNKF-SP,IPF,Yes,Yes
+436,2018-06-24,Netherlands,,Utrecht,Dutch Juniors & Sub-Juniors Championships,KNKF-SP,IPF,Yes,Yes
+437,2014-04-23,Netherlands,NH,Alkmaar,Dutch Equipped Bench Championships,KNKF-SP,IPF,Yes,Yes
+438,2017-09-10,Netherlands,NB,Geldrop,Dutch Classic Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+439,2018-10-13,Netherlands,ZH,Delft,Dutch Student Championships,KNKF-SP,IPF,Yes,Yes
+440,2022-10-29,Netherlands,,Nijmegen,SBD Cup,KNKF-SP,IPF,Yes,Yes
+441,2022-03-26,Netherlands,,Tilburg,Open NK Powerliften Classic,KNKF-SP,IPF,Yes,Yes
+442,2024-09-14,Netherlands,,Nijmegen,SBD Cup,KNKF-SP,IPF,Yes,Yes
+443,2024-07-06,Netherlands,,Tilburg,Regiokampioenschappen Midden-Zuid,KNKF-SP,IPF,Yes,Yes
+444,2025-07-12,Netherlands,,Amsterdam,Euro Muscle Show: Deadlift Cup,KNKF-SP,IPF,Yes,Yes
+445,2024-03-03,Netherlands,,Eindhoven,Subjunioren & Junioren & Masters NK Bankdrukken,KNKF-SP,IPF,Yes,Yes
+446,2025-12-14,Netherlands,,Eindhoven,Open NK Bankdrukken,KNKF-SP,IPF,Yes,Yes
+447,2026-04-25,Netherlands,,Eindhoven,Junioren NK Powerliften,KNKF-SP,IPF,Yes,Yes
+448,2024-02-17,Netherlands,,Groningen,Northside Barbell Winter Cup,KNKF-SP,IPF,Yes,Yes
+449,2019-02-24,Netherlands,NH,Oudkarpsel,Dutch Equipped Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+450,2026-01-25,Netherlands,,Eindhoven,NK Teams,KNKF-SP,IPF,Yes,Yes
+451,2021-07-17,Netherlands,,Weert,Subjunioren & Junioren NK Powerliften Classic,KNKF-SP,IPF,Yes,Yes
+452,2022-09-18,Netherlands,,Beuningen,Open NK Bankdrukken Classic,KNKF-SP,IPF,Yes,Yes
+453,2023-01-28,Netherlands,,Nijmegen,Atlas NK Qualifier,KNKF-SP,IPF,Yes,Yes
+454,2023-10-01,Netherlands,,Beuningen,Speijers Sports Bankdruk Cup,KNKF-SP,IPF,Yes,Yes
+455,2022-09-18,Netherlands,,Beuningen,Speijers Sports Bankdruk Cup,KNKF-SP,IPF,Yes,Yes
+456,2024-10-06,Netherlands,,Beuningen,Speijers Sports Bankdruk Cup,KNKF-SP,IPF,Yes,Yes
+457,2014-12-06,Netherlands,NB,Veldhoven,Dutch Classic Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+458,2015-09-06,Netherlands,GE,Nijmegen,SBD Cup,KNKF-SP,IPF,Yes,Yes
+459,2021-10-09,Netherlands,,Tillburg,NSK Powerliften Classic,KNKF-SP,IPF,Yes,Yes
+460,2024-12-14,Netherlands,,Eindhoven,Lichtstad Cup 2.0,KNKF-SP,IPF,Yes,Yes
+461,2016-06-11,Netherlands,NB,Tilburg,DRC Cup,KNKF-SP,IPF,Yes,Yes
+462,2026-02-22,Netherlands,,Apeldoorn,Subjunioren & Junioren & Masters NK Bankdrukken,KNKF-SP,IPF,Yes,Yes
+463,2016-12-11,Netherlands,NB,Veldhoven,Dutch Classic Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+464,2021-05-22,Netherlands,,Maasland,Open NK Powerliften Classic Dames,KNKF-SP,IPF,Yes,Yes
+465,2022-06-25,Netherlands,,Groningen,Northside Barbell Summer Cup,KNKF-SP,IPF,Yes,Yes
+466,2024-10-26,Netherlands,,Groningen,NSK Powerliften,KNKF-SP,IPF,Yes,Yes
+467,2019-09-28,Netherlands,GE,Nijmegen,SBD Cup,KNKF-SP,IPF,Yes,Yes
+468,2025-03-29,Netherlands,,Rotterdam,Staal & Kracht Cup,KNKF-SP,IPF,Yes,Yes
+469,2022-10-15,Netherlands,,Delft,NSK Powerliften Classic,KNKF-SP,IPF,Yes,Yes
+470,2020-10-10,Netherlands,NB,Tilburg,Dutch Student Championships,KNKF-SP,IPF,Yes,Yes
+471,2021-12-18,Netherlands,,Wezep,PWG Cup Powerliften Classic,KNKF-SP,IPF,Yes,Yes
+472,2022-04-30,Netherlands,,Lelystad,Beginnerswedstrijd Lelystad,KNKF-SP,IPF,Yes,No
+473,2025-11-08,Netherlands,,Tilburg,Open NK Powerliften,KNKF-SP,IPF,Yes,Yes
+474,2021-07-03,Netherlands,,Apeldoorn,Subjunioren Junioren & Masters NK Bankdrukken Classic,KNKF-SP,IPF,Yes,Yes
+475,2019-03-23,Netherlands,NB,Tilburg,Dutch Classic Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+476,2018-09-02,Netherlands,NB,Geldrop,Dutch Classic Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+477,2025-06-15,Netherlands,,Groningen,Regiokampioenschappen Noord-Oost,KNKF-SP,IPF,Yes,Yes
+478,2017-03-26,Netherlands,ZH,Amsterdam,Dutch Equipped Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+479,2025-02-22,Netherlands,,Groningen,Northside Barbell Winter Cup,KNKF-SP,IPF,Yes,Yes
+480,2025-06-28,Netherlands,,Tilburg,Regiokampioenschappen Midden-Zuid,KNKF-SP,IPF,Yes,Yes
+481,2018-02-25,Netherlands,NH,Alkmaar,Dutch Equipped Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+482,2021-05-30,Netherlands,,Maasland,Open NK Powerliften Classic Heren,KNKF-SP,IPF,Yes,Yes
+483,2023-12-16,Netherlands,,Veldhoven,Lichtstad Cup,KNKF-SP,IPF,Yes,Yes
+484,2015-09-20,Netherlands,NB,Geldrop,Dutch Classic Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+485,2024-12-21,Netherlands,,Eindhoven,Odin Cup,KNKF-SP,IPF,Yes,Yes
+486,2018-12-08,Netherlands,NB,Veldhoven,DRC Cup,KNKF-SP,IPF,Yes,Yes
+487,2024-06-29,Netherlands,,Tiel,Regiokampioenschappen Noord-Oost,KNKF-SP,IPF,Yes,Yes
+488,2026-02-22,Netherlands,,Apeldoorn,Powerlifting Apeldoorn Bankdruk Cup,KNKF-SP,IPF,Yes,Yes
+489,2024-05-11,Netherlands,,Stramproy,Junioren NK Powerliften,KNKF-SP,IPF,Yes,Yes
+490,2023-05-06,Netherlands,,Hoofddorp,Ro's Cup,KNKF-SP,IPF,Yes,Yes
+491,2020-09-06,Netherlands,NB,Geldrop,Dutch Classic Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+492,2024-03-30,Netherlands,,Nijmegen,SBD Paascup,KNKF-SP,IPF,Yes,Yes
+493,2020-02-23,Netherlands,NH,Oudkarspel,Dutch Sub-Juniors Classic Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+494,2017-06-10,Netherlands,NB,Tilburg,DRC Cup,KNKF-SP,IPF,Yes,Yes
+495,2026-05-09,Netherlands,,Breda,Breda Open Cup,KNKF-SP,IPF,Yes,Yes
+496,2016-03-20,Netherlands,NH,Alkmaar,Dutch Equipped Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+497,2023-06-03,Netherlands,,Groningen,Northside Barbell Summer Cup,KNKF-SP,IPF,Yes,Yes
+498,2023-03-12,Netherlands,,Wezep,Subjunioren Junioren & Masters NK Bankdrukken Classic,KNKF-SP,IPF,Yes,Yes
+499,2026-02-28,Netherlands,,Groningen,Northside Barbell Cup,KNKF-SP,IPF,Yes,Yes
+500,2025-09-27,Netherlands,,Beuningen,Speijers Sports Powerlift Cup,KNKF-SP,IPF,Yes,Yes
+501,2024-04-14,Netherlands,,Weert,Subjunioren NK Powerliften,KNKF-SP,IPF,Yes,Yes
+502,2016-05-22,Netherlands,NB,Eindhoven,Dutch Juniors & Masters Equipped Championships & Open Powerlifting,KNKF-SP,IPF,Yes,Yes
+503,2022-04-16,Netherlands,,Weert,Junioren NK Powerliften Dames,KNKF-SP,IPF,Yes,Yes
+504,2024-11-16,Netherlands,,Eindhoven,Masters NK Powerliften,KNKF-SP,IPF,Yes,Yes
+505,2016-09-18,Netherlands,NB,Geldrop,Dutch Classic Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+506,2014-05-18,Netherlands,NH,Alkmaar,Dutch Equipped Juniors & Masters Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+507,2018-02-03,Netherlands,ZH,Rotterdam,Fox Powerlifting Cup & NK Masters Classic,KNKF-SP,IPF,Yes,Yes
+508,2017-12-09,Netherlands,NB,Veldhoven,Dutch Classic Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+509,2023-05-07,Netherlands,,Hoofddorp,Subjunioren NK Powerliften,KNKF-SP,IPF,Yes,Yes
+510,2025-02-16,Netherlands,,Eindhoven,Sectie-C Bankdruk Cup,KNKF-SP,IPF,Yes,Yes
+511,2019-04-07,Netherlands,NB,Geldrop,TOPFIT Bench Press Classic Cup,KNKF-SP,IPF,Yes,Yes
+512,2017-05-21,Netherlands,NB,Eindhoven,Sport Arena Dutch Juniors & Masters Equipped Championships,KNKF-SP,IPF,Yes,Yes
+513,2024-03-03,Netherlands,,Eindhoven,Open Bench Press Qualifier,KNKF-SP,IPF,Yes,Yes
+514,2020-03-07,Netherlands,NH,Oudkarspel,Dutch Juniors Classic Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+515,2021-11-07,Netherlands,,Geldrop,Open NK Bankdrukken Classic,KNKF-SP,IPF,Yes,Yes
+516,2025-12-13,Netherlands,,Eindhoven,Lichtstad Cup 2.0,KNKF-SP,IPF,Yes,Yes
+517,2018-04-22,Netherlands,NB,Tilburg,Dutch Classic Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+518,2023-10-01,Netherlands,,Beuningen,Open NK Bankdrukken Classic,KNKF-SP,IPF,Yes,Yes
+519,2023-03-12,Netherlands,,Wezep,Open Bench Press Classic Qualifier,KNKF-SP,IPF,Yes,Yes
+520,2025-02-16,Netherlands,,Eindhoven,Subjunioren & Junioren & Masters NK Bankdrukken,KNKF-SP,IPF,Yes,Yes
+521,2015-03-18,Netherlands,NH,Noord-Schaarwoude,Dutch Classic Sub&Juniors Championships,KNKF-SP,IPF,Yes,Yes
+522,2019-04-07,Netherlands,NB,Geldrop,Dutch Equipped Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+523,2025-12-14,Netherlands,,Eindhoven,Sectie-C Bankdruk Cup 2.0,KNKF-SP,IPF,Yes,Yes
+524,2025-04-19,Netherlands,,Nijmegen,SBD Paascup,KNKF-SP,IPF,Yes,Yes
+525,2025-11-29,Netherlands,,Eindhoven,Lichtstad Cup,KNKF-SP,IPF,Yes,Yes
+526,2017-09-30,Netherlands,GE,Nijmegen,SBD Cup,KNKF-SP,IPF,Yes,Yes
+527,2020-02-23,Netherlands,NH,Oudkarspel,Dutch Equipped Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+528,2021-09-12,Netherlands,,Geldrop,TOPFIT Cup Powerliften Classic,KNKF-SP,IPF,Yes,Yes
+529,2025-05-10,Netherlands,,Stramproy,Junioren NK Powerliften,KNKF-SP,IPF,Yes,Yes
+530,2019-06-22,Netherlands,UT,Utrecht,Dutch Juniors & Sub-Juniors Championships,KNKF-SP,IPF,Yes,Yes
+531,2018-03-25,Netherlands,NH,Alkmaar,Dutch Equipped Bench Press Championships,KNKF-SP,IPF,Yes,Yes
+532,2019-10-20,Netherlands,GE,Apeldoorn,Dutch Classic Masters Championships,KNKF-SP,IPF,Yes,Yes
+533,2024-02-25,Netherlands,,Geldrop,Equipped TOPFIT Cup,KNKF-SP,IPF,Yes,Yes
+534,2023-02-25,Netherlands,,Tilburg,Open NK Powerliften,KNKF-SP,IPF,Yes,Yes
+535,2023-01-14,Netherlands,,Groningen,Northside Barbell Winter Cup,KNKF-SP,IPF,Yes,Yes
+536,2015-12-12,Netherlands,NB,Veldhoven,Dutch Classic Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+537,2023-10-07,Netherlands,,Eindhoven,Odin Cup,KNKF-SP,IPF,Yes,Yes
+538,2024-10-06,Netherlands,,Beuningen,Open NK Bankdrukken,KNKF-SP,IPF,Yes,Yes
+539,2025-10-25,Netherlands,,Leiden,NSK Powerliften,KNKF-SP,IPF,Yes,Yes
+540,2023-12-23,Netherlands,,Eindhoven,Lichtstad Cup II,KNKF-SP,IPF,Yes,Yes
+541,2024-11-09,Netherlands,,Tilburg,Open NK Powerliften,KNKF-SP,IPF,Yes,Yes
+542,2017-10-14,Netherlands,NB,Tilburg,Dutch Student Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+543,2023-11-05,Netherlands,,Eindhoven,Team Francke Bankdruk Cup,KNKF-SP,IPF,Yes,Yes
+544,2022-07-16,Netherlands,,Wezep,PWG Summer Cup,KNKF-SP,IPF,Yes,Yes
+545,2016-10-01,Netherlands,NB,Tilburg,Dutch Student Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+546,2017-02-26,Netherlands,ZH,Alkmaar,Dutch Equipped Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+547,2014-09-06,Netherlands,NB,Tilburg,Qualifier Dutch Classic Powerlifting Championships,KNKF-SP,IPF,Yes,Yes
+548,2026-05-09,Netherlands,,Breda,Breda Grand Prix,KNKF-SP,IPF,Yes,Yes
+549,2025-06-22,Netherlands,,Weert,Subjunioren NK Powerliften,KNKF-SP,IPF,Yes,Yes
+550,2018-09-22,Netherlands,GE,Nijmegen,SBD Cup,KNKF-SP,IPF,Yes,Yes
+551,2022-04-17,Netherlands,,Weert,Subjunioren & Masters NK Powerliften Classic,KNKF-SP,IPF,Yes,Yes
+552,2023-11-18,Netherlands,,Delft,NSK Powerliften,KNKF-SP,IPF,Yes,Yes
+553,2022-02-05,Netherlands,,Groningen,Northside Barbell Cup,KNKF-SP,IPF,Yes,Yes
+554,2024-09-29,Netherlands,,Beuningen,Speijers Sports Powerlift Cup,KNKF-SP,IPF,Yes,Yes
+555,2022-04-23,Netherlands,,Weert,Junioren NK Powerliften Heren,KNKF-SP,IPF,Yes,Yes
+556,2015-06-13,Netherlands,NB,Tilburg,DRC Cup,KNKF-SP,IPF,Yes,Yes
+557,2023-06-10,Netherlands,,Wageningen,GNSK Powerliften,KNKF-SP,IPF,Yes,Yes
+558,2020-02-01,Netherlands,,Groningen,Northside Barbell Cup,KNKF-SP,IPF,Yes,Yes
+559,2022-03-05,Netherlands,,Eindhoven,Odin Open Bench Press Qualifier,KNKF-SP,IPF,Yes,Yes
+560,2019-10-05,Netherlands,ZH,Delft,Dutch Student Championships,KNKF-SP,IPF,Yes,Yes
+561,2023-04-29,Netherlands,,Stramproy,Junioren NK Powerliften,KNKF-SP,IPF,Yes,Yes
+562,2022-03-05,Netherlands,,Eindhoven,Subjunioren & Junioren & Masters NK Bankdrukken Classic,KNKF-SP,IPF,Yes,Yes
+563,2023-09-09,Netherlands,,Nijmegen,SBD Cup,KNKF-SP,IPF,Yes,Yes
+564,2016-04-16,Netherlands,NH,Noord-Scharwoude,Dutch Juniors & Sub-Juniors Championships,KNKF-SP,IPF,Yes,Yes
+565,2020-09-20,Netherlands,,Weert,Loods 37 Cup Powerlifting Classic,KNKF-SP,IPF,Yes,Yes
+566,2008-03-01,Latvia,,Jelgava,Latvian Bench Press Championships,LPF,IPF,Yes,Yes
+567,2017-05-20,Latvia,,Riga,SELL Student Games,LJTF,IPF,Yes,Yes
+568,2005-04-02,Latvia,,Aizkraukle,Latvian Powerlifting Championships,LPF,IPF,Yes,Yes
+569,2001-03-24,Latvia,,,Latvian Bench Press Championships,LPF,IPF,Yes,Yes
+570,2000-04-29,Latvia,,Jelgava,Latvian Juniors Powerlifting Championships,LPF,IPF,Yes,Yes
+571,2006-04-02,Latvia,,Riga,Latvian Powerlifting Championships,LPF,IPF,Yes,Yes
+572,2005-04-08,Latvia,,Jelgava,Latvian Bench Press Championships,LPF,IPF,Yes,Yes
+573,2001-10-13,Latvia,,Tukuma,Tukuma Powerlifting Championships,LPF,IPF,Yes,Yes
+574,2002-04-06,Latvia,,,Latvian Powerlifting Championships,LPF,IPF,Yes,Yes
+575,1997-04-19,Latvia,,,Latvian Juniors Powerlifting Championships,LPF,IPF,Yes,Yes
+576,1998-04-25,Latvia,,Jelgava,Latvian Juniors Powerlifting Championships,LPF,IPF,Yes,Yes
+577,2001-03-24,Latvia,,,Latvian Powerlifting Championships,LPF,IPF,Yes,Yes
+578,2001-04-28,Latvia,,,Latvian Juniors Powerlifting Championships,LPF,IPF,Yes,Yes
+579,1999-10-30,Latvia,,Aluksne,Latvian Bench Press Championships,LPF,IPF,Yes,Yes
+580,2000-03-25,Latvia,,Jelgava,Latvian Powerlifting Championships,LPF,IPF,Yes,Yes
+581,1998-11-14,Latvia,,Jelgava,Latvian Bench Press Championships,LPF,IPF,Yes,Yes
+582,1999-04-24,Latvia,,Jelgava,Latvian Junior Powerlifting Championships,LPF,IPF,Yes,Yes
+583,1999-03-27,Latvia,,Jelgava,Latvian Powerlifting Championships,LPF,IPF,Yes,Yes
+584,2020-03-07,Latvia,,Talsu,Talsu Novada Sporta Spēles,LPF,IPF,Yes,Yes
+585,1998-03-21,Latvia,,Jelgava,Latvian Powerlifting Championships,LPF,IPF,Yes,Yes
+586,1997-03-08,Latvia,,,Latvian Powerlifting Championships,LPF,IPF,Yes,Yes
+587,2013-06-01,Romania,,,Campionatul National de Powerlifting Juniori si Tineret,FRPL,IPF,Yes,Yes
+588,2012-09-08,Romania,,Bacau,Campionatul National de Seniori,FRPL,IPF,Yes,Yes
+589,2014-06-21,Romania,,,Campionatul National de Powerlifting,FRPL,IPF,Yes,Yes
+590,2019-04-06,Romania,,Timisoara,Campionatul National de Powerlifting,FRPL,IPF,Yes,Yes
+591,2024-09-16,Romania,,Alba Iulia,Campionatul National,FRPL,IPF,Yes,Yes
+592,2019-10-12,Romania,,Baile Herculane,Campionatul National de Impins din Culcat Clasic,FRPL,IPF,Yes,Yes
+593,2026-04-26,Romania,,,Iron Team Cup Editia III,FRPL,IPF,Yes,Yes
+594,2014-03-15,Romania,,Alba Iulia,Campionatul National de Powerlifting Copii si Cadeti,FRPL,IPF,Yes,Yes
+595,2015-06-27,Romania,,Sibiu,Campionatul National de Powerlifting,FRPL,IPF,Yes,Yes
+596,2016-03-27,Romania,,Teius,Campionatul National de Powerlifting Copii si Cadeti,FRPL,IPF,Yes,Yes
+597,2010-11-27,Romania,,Alba Iulia,Campionatul National de Seniori,FRPL,IPF,Yes,Yes
+598,2021-09-29,Romania,,,Campionatul Național,FRPL,IPF,Yes,Yes
+599,2011-09-03,Romania,,Timisoara,Campionatul National de Powerlifting,FRPL,IPF,Yes,Yes
+600,2019-09-14,Romania,,Blejoi,Campionatul National de Powerlifting Clasic,FRPL,IPF,Yes,Yes
+601,2013-10-19,Romania,,Teius,Cupa Romaniei,FRPL,IPF,Yes,Yes
+602,2013-12-01,Romania,,Alba Iulia,Campionatul National Impins din Culcat,FRPL,IPF,Yes,Yes
+603,2012-10-20,Romania,,Stremt,Cupa Romaniei,FRPL,IPF,Yes,Yes
+604,2012-02-03,Romania,,Galda de Jos,Campionatul National de Cadeti,FRPL,IPF,Yes,Yes
+605,2011-02-05,Romania,,Alba Iulia,Campionatul National de Cadeti,FRPL,IPF,Yes,Yes
+606,2016-11-19,Romania,,Sibiu,Campionatul National de Impins din Culcat,FRPL,IPF,Yes,Yes
+607,2014-11-22,Romania,,Alba Iulia,Campionatul National de Impins din Culcat,FRPL,IPF,Yes,Yes
+608,2018-09-08,Romania,SB,Sibiu,Campionat National de Impins din Culcat Classic,FRPL,IPF,Yes,Yes
+609,2017-11-11,Romania,,Sibiu,Campionatul National de Impins din Culcat,FRPL,IPF,Yes,Yes
+610,2013-02-09,Romania,,Alba Iulia,Campionatul National de Powerlifting Copii si Cadeti,FRPL,IPF,Yes,Yes
+611,2010-01-30,Romania,,Alba Iulia,Campionatul National de Cadeti,FRPL,IPF,Yes,Yes
+612,2018-11-17,Romania,,Alba Iulia,Campionatul National de Impins din Culcat,FRPL,IPF,Yes,Yes
+613,2025-09-15,Romania,,Alba Iulia,Campionatul National,FRPL,IPF,Yes,Yes
+614,2013-09-07,Romania,,Timisoara,Campionatul National de Powerlifting,FRPL,IPF,Yes,Yes
+615,2009-10-11,Romania,,Alba Iulia,Campionatul National de Cadeti,FRPL,IPF,Yes,Yes
+616,2011-05-28,Romania,,Alba Iulia,Campionatul National de Juniori,FRPL,IPF,Yes,Yes
+617,2012-05-25,Romania,,Ramnicu Valcea,Campionatul National de Juniori si Tineret,FRPL,IPF,Yes,Yes
+618,2017-04-08,Romania,,Blejoi,Campionatul National de Powerlifting,FRPL,IPF,Yes,Yes
+619,2020-11-28,Romania,,Sânmartin,Campionatul National de Impins din Culcat,FRPL,IPF,Yes,Yes
+620,2019-11-09,Romania,,Baile Felix,Campionatul National de Impins din Culcat Echipat,FRPL,IPF,Yes,Yes
+621,2012-11-24,Romania,,Alba Iulia,Campionatul National de Impins din Culcat,FRPL,IPF,Yes,Yes
+622,2023-06-06,Romania,,Cluj-Napoca,Campionatul Național,FRPL,IPF,Yes,Yes
+623,2015-03-28,Romania,,Alba Iulia,Campionatul National de Powerlifting Copii si Cadeti,FRPL,IPF,Yes,Yes
+624,2009-11-28,Romania,,Alba Iulia,Campionatul National de Juniori Seniori,FRPL,IPF,Yes,Yes
+625,2016-06-25,Romania,,Beius,Campionatul National de Powerlifting,FRPL,IPF,Yes,Yes
+626,2014-10-11,Romania,,Beius,Cupa Romaniei,FRPL,IPF,Yes,Yes
+627,2018-03-31,Romania,,Alba Iulia,Campionatul National de Powerlifting,FRPL,IPF,Yes,Yes
+628,2022-04-08,Romania,,,Campionatul Național,FRPL,IPF,Yes,Yes
+629,2015-11-22,Romania,,Sibiu,Campionatul National de Impins din Culcat,FRPL,IPF,Yes,Yes
+630,2010-05-28,Romania,,Alba Iulia,Campionatul National de Juniori,FRPL,IPF,Yes,Yes
+631,2020-10-01,Romania,,Băile Herculane,Campionatul Național,FRPL,IPF,Yes,Yes
+632,2022-09-29,Romania,,,Campionatul Național Clasic,FRPL,IPF,Yes,Yes
+633,2016-10-22,Romania,,Ramnicu Valea,Campionatul National de Powerlifting,FRPL,IPF,Yes,Yes
+634,2015-09-12,Australia,WA,Perth,Perth Fitness and Health Expo Championships,PA,IPF,Yes,Yes
+635,2012-07-07,Australia,WA,Mt Hawthorn,Strength Club Open,PA,IPF,Yes,Yes
+636,2017-07-01,Australia,QLD,Cairns,NQ Open II,PA,IPF,Yes,Yes
+637,2009-10-18,Australia,NSW,Sydney,Sydney Bench Press Open,PA,IPF,Yes,Yes
+638,2013-09-14,Australia,NSW,Toronto,Toronto Open Championships,PA,IPF,Yes,Yes
+639,2016-11-19,Australia,SA,Adelaide,Adelaide Open III,PA,IPF,Yes,Yes
+640,2013-11-03,Australia,ACT,Canberra,OneRepMax,PA,IPF,Yes,Yes
+641,2016-12-17,Australia,WA,Perth,Lifters Labyrinth II,PA,IPF,Yes,Yes
+642,2017-02-05,Australia,NSW,Sydney,Top Lifter I,PA,IPF,Yes,Yes
+643,2017-06-11,Australia,NSW,Sydney,Power Elite Open,PA,IPF,Yes,Yes
+644,2015-03-01,Australia,NSW,Bulli,NSPC Mini Raw Open II,PA,IPF,Yes,Yes
+645,2015-10-24,Australia,WA,Rockingham,Clash of Clans,PA,IPF,Yes,Yes
+646,2003-11-23,Australia,NSW,Sydney,Matti Tikka,PA,IPF,Yes,Yes
+647,2000-01-01,Australia,SA,,Bill Fox Memorial,PA,IPF,Yes,Yes
+648,2014-10-18,Australia,NSW,Sydney,Matti Tikka Challenge,PA,IPF,Yes,Yes
+649,2013-09-14,Australia,QLD,Gold Coast,Gold Coast Barbell Beach Bash,PA,IPF,Yes,Yes
+650,2002-11-03,Australia,NSW,Sydney,Gay Games,PA,IPF,Yes,Yes
+651,2002-02-16,Australia,VIC,Colac,Colac Summer Open,PA,IPF,Yes,Yes
+652,2017-03-18,Australia,ACT,Canberra,Capital Challenge,PA,IPF,Yes,Yes
+653,2007-05-19,Australia,TAS,Wynyard,Wynyard Open,PA,IPF,Yes,Yes
+654,2011-06-12,Australia,QLD,Brisbane,Acacia Park Novice Powerlifting and Bench Press Competition,PA,IPF,Yes,Yes
+655,2001-09-09,Australia,QLD,Ipswich,Ipswich Open,PA,IPF,Yes,Yes
+656,2005-04-09,Australia,NSW,Myuna Bay,NSW Juniors & Masters and Trans-Tasman Masters Games,PA,IPF,Yes,Yes
+657,2004-10-09,Australia,NSW,Umina Beach,NSW Spring Grading,PA,IPF,Yes,Yes
+658,2002-01-01,Australia,,,Singleton Strength Triathalon,PA,IPF,Yes,Yes
+659,2016-04-30,Australia,VIC,Melbourne,Melbourne Open,PA,IPF,Yes,Yes
+660,2003-07-19,Australia,,,Australian Open Championships,PA,IPF,Yes,Yes
+661,2000-06-24,Australia,VIC,Colac,Victorian Winter Open,PA,IPF,Yes,Yes
+662,2017-12-10,Australia,VIC,Melbourne,Just Strong,PA,IPF,Yes,Yes
+663,2008-08-23,Australia,QLD,Brisbane,UQ Novice Competition,PA,IPF,Yes,Yes
+664,2014-11-29,Australia,QLD,Brisbane,Summer UQ Novice II,PA,IPF,Yes,Yes
+665,2004-12-11,Australia,TAS,,Tasmanian State Championships,PA,IPF,Yes,Yes
+666,2001-12-01,Australia,,,Matti Tikka,PA,IPF,Yes,Yes
+667,2012-02-12,Australia,VIC,Melbourne,Melbourne Summer Bash,PA,IPF,Yes,Yes
+668,2017-03-04,Australia,QLD,Townsville,NQ Open 1,PA,IPF,Yes,Yes
+669,2004-01-02,Australia,WA,Perth,WA State Championships,PA,IPF,Yes,Yes
+670,2016-07-10,Australia,NSW,Sydney,Top Lifter III,PA,IPF,Yes,Yes
+671,2016-08-05,Australia,VIC,Melbourne,Australian Equipped Powerlifting Championships,PA,IPF,Yes,Yes
+672,2016-08-20,Australia,WA,Perth,Pacific Invitational,PA,IPF,Yes,Yes
+673,2004-02-22,Australia,NSW,,NSW Eastern Grading Competition,PA,IPF,Yes,Yes
+674,2014-08-30,Australia,NSW,Toronto,Toronto Open,PA,IPF,Yes,Yes
+675,2012-10-13,Australia,WA,Port Kennedy,Crossfit Armed Open,PA,IPF,Yes,Yes
+676,2013-06-30,Australia,NSW,South Granville,Hercules of the West,PA,IPF,Yes,Yes
+677,2012-09-16,Australia,VIC,Hawthorn,Starting Strength Challenge,PA,IPF,Yes,Yes
+678,2014-09-20,Australia,QLD,Brisbane,Strength Sports Powerlifting Challenge,PA,IPF,Yes,Yes
+679,2000-04-15,Australia,VIC,Melbourne,Australian Juniors & Masters Championships,PA,IPF,Yes,Yes
+680,2009-05-30,Australia,SA,Mannum,South Australian Open,PA,IPF,Yes,Yes
+681,2015-07-18,Australia,VIC,Melbourne,Obsidian Winter Night Open,PA,IPF,Yes,Yes
+682,2008-11-15,Australia,TAS,Wynyard,Wynyard Open,PA,IPF,Yes,Yes
+683,2014-02-16,Australia,VIC,Hawthorn,Melbourne Summer Bash,PA,IPF,Yes,Yes
+684,2007-10-27,Australia,SA,Mannum,Country vs City Challenge,PA,IPF,Yes,Yes
+685,2013-06-02,Australia,QLD,Brisbane,UQ Brisbane Cup,PA,IPF,Yes,Yes
+686,2017-09-24,Australia,NSW,Sydney,Hercules of the West,PA,IPF,Yes,Yes
+687,2015-10-11,Australia,VIC,Melbourne,Obsidian Spring Open,PA,IPF,Yes,Yes
+688,2012-11-24,Australia,WA,Mt Hawthorn,Strength Club Classic,PA,IPF,Yes,Yes
+689,2001-03-11,Australia,WA,Perth,WA Qualifying,PA,IPF,Yes,Yes
+690,2005-12-03,Australia,VIC,Colac,Victorian December Extravaganza,PA,IPF,Yes,Yes
+691,2017-04-30,Australia,NSW,Sydney,Pacific Invitational Bench Press,PA,IPF,Yes,Yes
+692,2007-11-11,Australia,NSW,Sydney,Matti Tikka Championships,PA,IPF,Yes,Yes
+693,2010-03-20,Australia,TAS,Launceston,Launceston Open,PA,IPF,Yes,Yes
+694,2016-02-28,Australia,NT,Darwin,Cyclone Challenge,PA,IPF,Yes,Yes
+695,2010-09-11,Australia,TAS,Launceston,Launceston Novice Comp,PA,IPF,Yes,Yes
+696,2014-10-11,Australia,VIC,Swan Hill,Murray River Challenge,PA,IPF,Yes,Yes
+697,2009-11-28,Australia,QLD,Beenleigh,SE Challenge,PA,IPF,Yes,Yes
+698,2017-04-02,Australia,NSW,Penrith,Matti Tikka,PA,IPF,Yes,Yes
+699,2002-04-29,Australia,,,Australian Juniors & Masters Powerlifting Championships,PA,IPF,Yes,Yes
+700,2005-12-10,Australia,TAS,Launceston,Tasmanian State Titles,PA,IPF,Yes,Yes
+701,2011-02-26,Australia,WA,Karrartha,North West Challenge,PA,IPF,Yes,Yes
+702,2017-12-03,Australia,VIC,Melbourne,JPS Open II,PA,IPF,Yes,Yes
+703,2016-10-01,Australia,NSW,Sydney,ACU Barbell Club Challenge II,PA,IPF,Yes,Yes
+704,2002-05-05,Australia,QLD,,Queensland State Championships,PA,IPF,Yes,Yes
+705,2012-03-03,Australia,VIC,Merbein,Mildura Open,PA,IPF,Yes,Yes
+706,2013-07-27,Australia,WA,Mt Hawthorn,West Australian Open,PA,IPF,Yes,Yes
+707,2017-05-14,Australia,NSW,Syndey,Top Lifter II,PA,IPF,Yes,Yes
+708,2016-12-17,Australia,ACT,Canberra,Capital Christmas Challenge,PA,IPF,Yes,Yes
+709,2011-05-21,Australia,WA,Belmont,WA Open,PA,IPF,Yes,Yes
+710,2017-04-01,Australia,TAS,Hobart,Hobart Open,PA,IPF,Yes,Yes
+711,2009-02-14,Australia,TAS,Launceston,Launceston Challenge,PA,IPF,Yes,Yes
+712,2003-01-01,Australia,NSW,Hunter Valley,Hunter Valley Bench Press,PA,IPF,Yes,Yes
+713,2005-10-15,Australia,SA,,SA State Titles,PA,IPF,Yes,Yes
+714,2016-08-05,Australia,VIC,Melbourne,Australian Juniors-Masters Championships,PA,IPF,Yes,Yes
+715,2013-03-10,Australia,QLD,Gold Coast,Gold Coast Barbell Open,PA,IPF,Yes,Yes
+716,2008-09-06,Australia,NSW,Toronto,NSW Bench Press Open & Lake Macquarie Open,PA,IPF,Yes,Yes
+717,2004-07-17,Australia,TAS,Launceston,Tasmanian Regional Launceston,PA,IPF,Yes,Yes
+718,2000-09-09,Australia,NSW,Thornton,NSW Bench Press Championships,PA,IPF,Yes,Yes
+719,2016-04-03,Australia,NSW,Sydney,ACU Barbell Challenge,PA,IPF,Yes,Yes
+720,2015-06-28,Australia,NSW,Redfern,Top Lifter III Day 2,PA,IPF,Yes,Yes
+721,2013-10-26,Australia,WA,Rockingham,The Assassin Open,PA,IPF,Yes,Yes
+722,2008-02-16,Australia,VIC,Melbourne,Melbourne Summer Bash,PA,IPF,Yes,Yes
+723,2015-05-23,Australia,VIC,Melbourne,Spartan's Cup Challenge,PA,IPF,Yes,Yes
+724,2004-01-01,Australia,VIC,,Australian Juniors & Masters and Victorian Open,PA,IPF,Yes,Yes
+725,2015-02-22,Australia,NSW,Redfern,Top Lifter,PA,IPF,Yes,Yes
+726,2011-12-03,Australia,NSW,North Sydney,Matti Tikka Challenge,PA,IPF,Yes,Yes
+727,2010-05-08,Australia,SA,Mannum,Australian Juniors and Masters Powerlifting and Bench Press Championships and ABSF Championships and South Australian Powerlifting and Bench Press Open,PA,IPF,Yes,Yes
+728,2012-05-19,Australia,NSW,Singleton,Singleton Strength Triathlon,PA,IPF,Yes,Yes
+729,2016-05-29,Australia,NT,Darwin,Croc Classic,PA,IPF,Yes,Yes
+730,2002-04-20,Australia,TAS,,Tasmanian North West Qualifier,PA,IPF,Yes,Yes
+731,2014-07-20,Australia,NSW,Sydney,Australian Championship Qualifier,PA,IPF,Yes,Yes
+732,2004-05-01,Australia,NSW,,NSW State Championships,PA,IPF,Yes,Yes
+733,2017-08-12,Australia,QLD,Brisbane,Return of the Iron,PA,IPF,Yes,Yes
+734,2015-09-06,Australia,NSW,Redfern,Top Lifter IV,PA,IPF,Yes,Yes
+735,2013-02-09,Australia,VIC,Mildura,Mildura Open,PA,IPF,Yes,Yes
+736,2016-06-25,Australia,QLD,Cairns,NQ Open II,PA,IPF,Yes,Yes
+737,2011-11-27,Australia,QLD,Brisbane,SE Challenge Powerlifting and Benchpress Championships,PA,IPF,Yes,Yes
+738,2017-04-23,Australia,NT,Darwin,Southern Steel Showdown,PA,IPF,Yes,Yes
+739,2003-11-30,Australia,VIC,,Victorian Extravaganza,PA,IPF,Yes,Yes
+740,2003-06-30,Australia,VIC,Melbourne,Con v Con,PA,IPF,Yes,Yes
+741,2014-06-22,Australia,NSW,Narellan,Hydrofit Open III,PA,IPF,Yes,Yes
+742,2008-07-27,Australia,NSW,Newcastle,Australian Open Bench Press Championships and Benchfest Classic,PA,IPF,Yes,Yes
+743,2006-09-09,Australia,NSW,Lake Macquarie,NSW Bench Press & Lake Macquarie Bench Press & Deadlift,PA,IPF,Yes,Yes
+744,2017-05-21,Australia,VIC,Melbourne,Obsidian Showdown III,PA,IPF,Yes,Yes
+745,2003-03-01,Australia,WA,Perth,WA Qualifying,PA,IPF,Yes,Yes
+746,2014-04-04,Australia,VIC,Melbourne,Australian Raw Powerlifting Championships,PA,IPF,Yes,Yes
+747,2017-05-27,Australia,QLD,Rockhampton,Lionheart Barbell Club Open,PA,IPF,Yes,Yes
+748,2000-04-30,Australia,SA,Adelaide,SA State Championships,PA,IPF,Yes,Yes
+749,2013-08-10,Australia,QLD,Brisbane,Strength Sports Challenge,PA,IPF,Yes,Yes
+750,2017-02-26,Australia,NSW,Sydney,City Strength HQ Open II,PA,IPF,Yes,Yes
+751,2012-01-29,Australia,QLD,Brisbane,Summer UQ Novice Comp,PA,IPF,Yes,Yes
+752,2017-04-22,Australia,QLD,Brisbane,Iron Fest V,PA,IPF,Yes,Yes
+753,2005-05-15,Australia,NSW,Maroubra,NSW State Open,PA,IPF,Yes,Yes
+754,2016-07-23,Australia,QLD,Brisbane,SSG Powerlifting Showdown,PA,IPF,Yes,Yes
+755,2015-07-25,Australia,NSW,Newcastle,Australian Equipped National Championships,PA,IPF,Yes,Yes
+756,2003-09-06,Australia,QLD,Brisbane,Brisbane Invitational,PA,IPF,Yes,Yes
+757,2011-07-17,Australia,NSW,Sydney,Hercules of the West RAW Championships,PA,IPF,Yes,Yes
+758,2015-03-22,Australia,QLD,Brisbane,Iron Fest III,PA,IPF,Yes,Yes
+759,2005-09-11,Australia,NSW,Lake Macquerie,NSW Open Bench Press and Lake Macquerie BP & Deadlift,PA,IPF,Yes,Yes
+760,2017-12-09,Australia,QLD,Brisbane,Xmas Iron Throwdown,PA,IPF,Yes,Yes
+761,2015-08-08,Australia,NSW,Penrith,Odin's Trial,PA,IPF,Yes,Yes
+762,2012-06-10,Australia,VIC,Hawthorn,Hawk Challenge,PA,IPF,Yes,Yes
+763,2007-04-15,Australia,WA,,WA Qualifier,PA,IPF,Yes,Yes
+764,2003-09-06,Australia,VIC,,Victorian Country Championships,PA,IPF,Yes,Yes
+765,2002-01-01,Australia,TAS,,Tasmanian Open Championships,PA,IPF,Yes,Yes
+766,2010-09-19,Australia,VIC,Hawthorn,Starting Strength Challenge,PA,IPF,Yes,Yes
+767,2002-02-16,Australia,TAS,,Tasmanian Northern Qualifier,PA,IPF,Yes,Yes
+768,2017-04-28,Australia,NSW,Sydney,Sydney Open,PA,IPF,Yes,Yes
+769,2012-04-22,Australia,NSW,North Sydney,Performance Sports Open,PA,IPF,Yes,Yes
+770,2015-05-30,Australia,QLD,Brisbane,Strength Sports Open,PA,IPF,Yes,Yes
+771,2010-02-20,Australia,VIC,Campbellfield,Melbourne Summer Bash,PA,IPF,Yes,Yes
+772,2015-09-05,Australia,QLD,Brisbane,Strength Sports Gym Powerlifting Challenge,PA,IPF,Yes,Yes
+773,2017-11-18,Australia,QLD,Brisbane,SSG Open II,PA,IPF,Yes,Yes
+774,2010-04-11,Australia,QLD,Townsville,Suncorp North Queensland Games,PA,IPF,Yes,Yes
+775,2014-02-22,Australia,NSW,Bristow,Bristow Open,PA,IPF,Yes,Yes
+776,2013-04-20,Australia,NSW,Sydney,Total Strength Elite Max II,PA,IPF,Yes,Yes
+777,2002-01-01,Australia,QLD,Townsville,Queensland Masters & Townsville Open,PA,IPF,Yes,Yes
+778,2017-10-29,Australia,NSW,Sydney,Power Elite Open,PA,IPF,Yes,Yes
+779,2003-03-29,Australia,TAS,Hobart,Tasmania Qualifying,PA,IPF,Yes,Yes
+780,2001-05-05,Australia,NSW,Singleton,NSW Bench Press Championships,PA,IPF,Yes,Yes
+781,2007-03-31,Australia,SA,Mannum,Mannum Cup,PA,IPF,Yes,Yes
+782,2004-09-12,Australia,NSW,Lake Macquarie,NSW State Bench Press & Lake Macquerie Competition & Oceania Qualifier,PA,IPF,Yes,Yes
+783,2011-03-19,Australia,NSW,Caves Beach,Bristow Open and Lack Macquarie Master Games,PA,IPF,Yes,Yes
+784,2009-09-27,Australia,QLD,Townsville,John Hill Cup,PA,IPF,Yes,Yes
+785,2015-11-22,Australia,VIC,Melbourne,SFA 2nd Intervarsity and Open Powerlifting Championships,PA,IPF,Yes,Yes
+786,2009-12-05,Australia,WA,Cannington,WA Push Pull Challenge,PA,IPF,Yes,Yes
+787,2015-08-14,Australia,VIC,Melbourne,Australian Bench Press Championships,PA,IPF,Yes,Yes
+788,2009-10-11,Australia,SA,Mannum,Riverland Challenge,PA,IPF,Yes,Yes
+789,2016-05-22,Australia,QLD,Brisbane,UQ Strength Challenge,PA,IPF,Yes,Yes
+790,2012-11-25,Australia,VIC,Melbourne,Victorian Extravaganza,PA,IPF,Yes,Yes
+791,2004-01-01,Australia,QLD,,QLD State Championships,PA,IPF,Yes,Yes
+792,2015-12-27,Australia,VIC,Melbourne,Obsidian Holiday Open,PA,IPF,Yes,Yes
+793,2015-03-28,Australia,SA,Adelaide,March Breakout,PA,IPF,Yes,Yes
+794,2012-04-29,Australia,WA,Perth,WA Open,PA,IPF,Yes,Yes
+795,2011-04-30,Australia,QLD,Townsville,Australian Juniors and Masters Powerlifting and Bench Press Championships and Art of Strength Raw Championships,PA,IPF,Yes,Yes
+796,2001-12-15,Australia,TAS,,Tasmanian Open Championships,PA,IPF,Yes,Yes
+797,2013-12-01,Australia,QLD,Brisbane,UQ Challenge,PA,IPF,Yes,Yes
+798,2005-01-01,Australia,VIC,,National Bench Press Cup,PA,IPF,Yes,Yes
+799,2017-03-04,Australia,NSW,Newcastle,Bristow Open,PA,IPF,Yes,Yes
+800,2004-07-01,Australia,VIC,Melbourne,Sharkey-Giffin Qualifier,PA,IPF,Yes,Yes
+801,2008-02-09,Australia,QLD,,QLD Masters & Juniors Competition,PA,IPF,Yes,Yes
+802,2014-04-05,Australia,VIC,Melbourne,Raw Pacific Invitational,PA,IPF,Yes,Yes
+803,2017-02-26,Australia,QLD,Brisbane,UQ Open 1,PA,IPF,Yes,Yes
+804,2017-10-13,Australia,VIC,Melbourne,Australia National Open Championships,PA,IPF,Yes,Yes
+805,2001-11-17,Australia,,,Total Fitness Challenge,PA,IPF,Yes,Yes
+806,2010-04-17,Australia,QLD,Townsville,Suncorp North Queensland Games International,PA,IPF,Yes,Yes
+807,2015-12-20,Australia,VIC,Melbourne,SFA Lift for Life Charity Challenge,PA,IPF,Yes,Yes
+808,2013-05-18,Australia,NSW,Singleton,Singleton Strength Triathlon,PA,IPF,Yes,Yes
+809,2014-10-26,Australia,QLD,Brisbane,Champions of Iron,PA,IPF,Yes,Yes
+810,2017-09-10,Australia,NSW,Sydney,Top Lifter V,PA,IPF,Yes,Yes
+811,2001-06-17,Australia,VIC,Broadmeadows,Victorian Seniors,PA,IPF,Yes,Yes
+812,2008-06-14,Australia,VIC,Melbourne,Melbourne Novice Competition,PA,IPF,Yes,Yes
+813,2000-02-20,Australia,NSW,Praire Vale,NSW Eastern Grading,PA,IPF,Yes,Yes
+814,2017-09-23,Australia,QLD,Brisbane,BNB Bash IV,PA,IPF,Yes,Yes
+815,2000-09-09,Australia,,,Australian Bench Press Championships,PA,IPF,Yes,Yes
+816,2003-01-01,Australia,,,Australian Juniors & Masters Powerlifting Championships,PA,IPF,Yes,Yes
+817,2003-07-14,Australia,TAS,,Tasmanian PCYC Challenge,PA,IPF,Yes,Yes
+818,2002-03-09,Australia,QLD,Brisbane,QLD Juniors State Championships & Brisbane Open,PA,IPF,Yes,Yes
+819,2001-05-05,Australia,NSW,Singleton,NSW State Championships,PA,IPF,Yes,Yes
+820,2006-03-11,Australia,TAS,Wynyard,North West Qualifier,PA,IPF,Yes,Yes
+821,2015-04-26,Australia,NSW,Bulli,NSPC Mini Raw Open II,PA,IPF,Yes,Yes
+822,2000-09-10,Australia,SA,,Bench Press Championships,PA,IPF,Yes,Yes
+823,2015-06-21,Australia,VIC,Melbourne,SFA Winter Open,PA,IPF,Yes,Yes
+824,2006-04-09,Australia,VIC,Mildura,Bench Press Cup,PA,IPF,Yes,Yes
+825,2001-04-07,Australia,VIC,Mildura,Victorian Championships,PA,IPF,Yes,Yes
+826,2017-08-04,Australia,VIC,Melbourne,Australian Bench Press Championships,PA,IPF,Yes,Yes
+827,2010-10-27,Australia,QLD,St Lucia,SE Challenge,PA,IPF,Yes,Yes
+828,2013-02-23,Australia,NSW,Sydney,Southwest Strength Challenge,PA,IPF,Yes,Yes
+829,2001-09-08,Australia,NSW,Lake Macquarie,Lake Macquarie Bench Press & Deadlift Championships,PA,IPF,Yes,Yes
+830,2014-10-18,Australia,NSW,Sydney,Pacific Challenge,PA,IPF,Yes,Yes
+831,2012-07-28,Australia,NSW,Newcastle,Australian Powerlifting and Bench Press Championships,PA,IPF,Yes,Yes
+832,2016-11-19,Australia,NSW,Sydney,Matti Tikka Powerlifting Championships,PA,IPF,Yes,Yes
+833,2015-01-31,Australia,VIC,Mildura,Mildura Open,PA,IPF,Yes,Yes
+834,2009-09-19,Australia,VIC,Campbellfield,Global One Battler's Open,PA,IPF,Yes,Yes
+835,2002-05-05,Australia,NSW,,NSW State Championships,PA,IPF,Yes,Yes
+836,2017-08-20,Australia,NSW,Sydney,Power Elite Open II,PA,IPF,Yes,Yes
+837,2016-12-18,Australia,NSW,Penrith,Team XP Xmas Comp,PA,IPF,Yes,Yes
+838,2003-09-06,Australia,TAS,,Tasmanian PCYC Challenge,PA,IPF,Yes,Yes
+839,2005-09-03,Australia,VIC,Colac,Victorian Championships,PA,IPF,Yes,Yes
+840,2012-06-16,Australia,SA,Monnum,City Vs Country,PA,IPF,Yes,Yes
+841,2009-11-21,Australia,NSW,Sydney,Matti Tikka Challenge,PA,IPF,Yes,Yes
+842,2010-05-22,Australia,NSW,Singleton,Singleton Strength Triathlon,PA,IPF,Yes,Yes
+843,2001-09-08,Australia,,,Australian Bench Press Championships,PA,IPF,Yes,Yes
+844,2015-04-11,Australia,VIC,Melbourne,Pacific Invitational,PA,IPF,Yes,Yes
+845,2007-04-21,Australia,QLD,Brisbane,Queensland Open Championships,PA,IPF,Yes,Yes
+846,2014-10-25,Australia,WA,Perth,Clash of Clans,PA,IPF,Yes,Yes
+847,2016-12-04,Australia,NSW,Sydney,City Strength Open,PA,IPF,Yes,Yes
+848,2015-04-26,Australia,VIC,Melbourne,ANZAC Cup,PA,IPF,Yes,Yes
+849,2015-08-14,Australia,VIC,Melbourne,Melbourne Open,PA,IPF,Yes,Yes
+850,2016-07-23,Australia,SA,Adelaide,Hostile Barbell Classic,PA,IPF,Yes,Yes
+851,2002-12-01,Australia,NSW,Umina,Matti Tikka,PA,IPF,Yes,Yes
+852,2016-09-03,Australia,QLD,Townsville,NQ Open III,PA,IPF,Yes,Yes
+853,2001-12-01,Australia,VIC,Melbourne,Melbourne Uni Extravaganza,PA,IPF,Yes,Yes
+854,2015-10-18,Australia,QLD,Brisbane,UQ Spring Novice Challenge,PA,IPF,Yes,Yes
+855,2004-02-28,Australia,QLD,Townsville,QLD Masters & Juniors Championships,PA,IPF,Yes,Yes
+856,2002-10-27,Australia,WA,,WA Qualifier,PA,IPF,Yes,Yes
+857,2004-01-01,Australia,,,National Bench Press Cup,PA,IPF,Yes,Yes
+858,2006-03-11,Australia,NSW,Myuna Bay,National Postal Bench Press,PA,IPF,Yes,Yes
+859,2001-09-08,Australia,VIC,Colac,Victorian Country Championships,PA,IPF,Yes,Yes
+860,2016-09-18,Australia,VIC,Melbourne,SFA Open,PA,IPF,Yes,Yes
+861,2016-02-06,Australia,WA,Rockingham,Gates of Valhalla,PA,IPF,Yes,Yes
+862,2017-09-16,Australia,ACT,Canberra,Capital Spring Challenge,PA,IPF,Yes,Yes
+863,2010-08-15,Australia,QLD,St Lucia,Winter UQ Novice Competition,PA,IPF,Yes,Yes
+864,2011-09-10,Australia,QLD,Townsville,John Hill Cup,PA,IPF,Yes,Yes
+865,2016-11-20,Australia,VIC,Melbourne,SFA Intervarsity Challenge,PA,IPF,Yes,Yes
+866,2001-05-19,Australia,TAS,Launceston,Tasmanian Juniors & Masters,PA,IPF,Yes,Yes
+867,2014-08-22,Australia,VIC,Melbourne,Australian Raw Sub-Junior Junior Masters Powerlifting and BP Champinoships,PA,IPF,Yes,Yes
+868,2017-12-17,Australia,NSW,Sydney,Viking Yule Challenge,PA,IPF,Yes,Yes
+869,2012-03-30,Australia,VIC,Melbourne,Australian Raw Powerlifting and Bench Press Championships and Australian Blind Championships,PA,IPF,Yes,Yes
+870,2002-06-22,Australia,VIC,,Winter Open,PA,IPF,Yes,Yes
+871,2003-06-22,Australia,NSW,Umina Beach,NSW Strength Triathlon,PA,IPF,Yes,Yes
+872,2008-10-25,Australia,WA,Perth,Wild West Challenge,PA,IPF,Yes,Yes
+873,2011-03-27,Australia,QLD,Jindalee,Queensland Powerlifting and Bench Press Open,PA,IPF,Yes,Yes
+874,2015-06-06,Australia,NSW,Bulli,NSPC Night Challenge,PA,IPF,Yes,Yes
+875,2012-03-24,Australia,QLD,Fortitude Valley,Queensland Open,PA,IPF,Yes,Yes
+876,2001-07-23,Australia,VIC,Melbourne,Victorian Winter Open,PA,IPF,Yes,Yes
+877,2007-03-10,Australia,NSW,Lake Macquarie,NSW Country Open and NSW Masters and Juniors PL and BP Open,PA,IPF,Yes,Yes
+878,2000-04-15,Australia,VIC,Melbourne,Victorian Championships,PA,IPF,Yes,Yes
+879,2002-09-07,Australia,QLD,,Dooleys Open,PA,IPF,Yes,Yes
+880,2017-08-04,Australia,VIC,Melbourne,Australian Junior / Masters Championships,PA,IPF,Yes,Yes
+881,2014-09-21,Australia,VIC,Hawthorn,Melbourne Spring Bash,PA,IPF,Yes,Yes
+882,2013-10-12,Australia,VIC,Geelong,Geelong Open,PA,IPF,Yes,Yes
+883,2000-05-06,Australia,NSW,Singleton,Open Masters & Junior Championships,PA,IPF,Yes,Yes
+884,2011-01-30,Australia,QLD,Brisbane,Summer UQ Novice Comp,PA,IPF,Yes,Yes
+885,2004-09-04,Australia,QLD,,QLD University Competition,PA,IPF,Yes,Yes
+886,2004-01-01,Australia,TAS,,Tasmanian Regional Championships,PA,IPF,Yes,Yes
+887,2013-05-26,Australia,VIC,Hawthorn,Hawk Challenge,PA,IPF,Yes,Yes
+888,2011-03-27,Australia,VIC,Hawthorn,Melbourne Powerlifting and Bench Press Open,PA,IPF,Yes,Yes
+889,2000-05-07,Australia,WA,Perth,WA State Championships,PA,IPF,Yes,Yes
+890,2002-04-27,Australia,VIC,,Victorian State Championships,PA,IPF,Yes,Yes
+891,2015-09-12,Australia,QLD,Cairns,NQ Open 3,PA,IPF,Yes,Yes
+892,2012-10-14,Australia,QLD,Brisbane,Acacia Park Autumn Novice Comp,PA,IPF,Yes,Yes
+893,2015-08-14,Australia,VIC,Carlton,Australian Junior Master Bench and Blind Championships,PA,IPF,Yes,Yes
+894,2015-03-22,Australia,QLD,Townsville,North Queensland Open,PA,IPF,Yes,Yes
+895,2007-03-03,Australia,TAS,Launceston,PCYC Challenge,PA,IPF,Yes,Yes
+896,2004-06-13,Australia,NSW,,NSW Strength Triathalon,PA,IPF,Yes,Yes
+897,2015-04-10,Australia,VIC,Melbourne,Australian Raw Powerlifting Championships,PA,IPF,Yes,Yes
+898,2014-05-10,Australia,SA,Adelaide,SA Open,PA,IPF,Yes,Yes
+899,2015-12-05,Australia,QLD,Cairns,NQ Open IV - Iron Strength,PA,IPF,Yes,Yes
+900,2015-10-17,Australia,NSW,Sydney,Pacific Invitational III,PA,IPF,Yes,Yes
+901,2007-12-01,Australia,VIC,Melbourne,Victorian Extravaganza,PA,IPF,Yes,Yes
+902,2014-07-19,Australia,WA,Mount Hawthorn,Strength Club Classic,PA,IPF,Yes,Yes
+903,2008-09-13,Australia,VIC,Melbourne,Broadmeadows Novice Competition,PA,IPF,Yes,Yes
+904,2013-11-16,Australia,QLD,Townsville,Tropical Strength Challenge,PA,IPF,Yes,Yes
+905,2017-04-22,Australia,VIC,Melbourne,JPS Open,PA,IPF,Yes,Yes
+906,2004-03-06,Australia,NSW,,NSW Northern Country Championships,PA,IPF,Yes,Yes
+907,2008-08-19,Australia,VIC,Melbourne,Australian Juniors Masters Intervarsity and ABSF Championships and Victorian Open,PA,IPF,Yes,Yes
+908,2007-06-09,Australia,VIC,Broadmeadows,Battler's Open,PA,IPF,Yes,Yes
+909,2003-10-25,Australia,WA,Perth,WA Local Comp,PA,IPF,Yes,Yes
+910,2006-09-02,Australia,VIC,Melbourne,Melbourne Powerlifting Competition.,PA,IPF,Yes,Yes
+911,2005-06-26,Australia,NSW,,NSW Strength Triathlon,PA,IPF,Yes,Yes
+912,2006-04-09,Australia,VIC,Mildura,Australian Juniors & Masters Championships,PA,IPF,Yes,Yes
+913,2011-09-24,Australia,TAS,Launceston,Tassie Tough Cup,PA,IPF,Yes,Yes
+914,2016-07-24,Australia,NSW,Sydney,Battle of the Titans,PA,IPF,Yes,Yes
+915,2017-09-24,Australia,VIC,Melbourne,Chan Challenge II,PA,IPF,Yes,Yes
+916,2015-09-06,Australia,VIC,Melbourne,SFA Chan Challenge,PA,IPF,Yes,Yes
+917,2003-05-03,Australia,WA,Perth,WA Titles,PA,IPF,Yes,Yes
+918,2007-12-02,Australia,QLD,Brisbane,SE Challenge Championships,PA,IPF,Yes,Yes
+919,2012-10-07,Australia,NSW,West Sydney,Hercules of the West,PA,IPF,Yes,Yes
+920,2009-12-12,Australia,TAS,Hobart,Hobart Open,PA,IPF,Yes,Yes
+921,2008-11-29,Australia,VIC,Colac,Victorian Extravaganza,PA,IPF,Yes,Yes
+922,2003-02-16,Australia,NSW,Sydney,NSW Eastern Grading,PA,IPF,Yes,Yes
+923,2017-10-27,Australia,TAS,Ulverstone,Australian Masters Games,PA,IPF,Yes,Yes
+924,2000-02-13,Australia,VIC,Melbourne,Millenium Open,PA,IPF,Yes,Yes
+925,2017-02-05,Australia,VIC,Melbourne,New Year Strength Challenge,PA,IPF,Yes,Yes
+926,2008-05-31,Australia,SA,Whyalla,Whyalla Challenge,PA,IPF,Yes,Yes
+927,2014-06-28,Australia,QLD,Stafford,Queensland Cup,PA,IPF,Yes,Yes
+928,2015-10-24,Australia,QLD,Brisbane,Pacific Invitational IV,PA,IPF,Yes,Yes
+929,2002-01-01,Australia,,,Australian Bench Press Championships,PA,IPF,Yes,Yes
+930,2007-09-15,Australia,VIC,Melbourne,Melbourne Novice Competition,PA,IPF,Yes,Yes
+931,2013-08-18,Australia,VIC,Hawthorn,Battler's Novice,PA,IPF,Yes,Yes
+932,2016-11-12,Australia,QLD,Brisbane,SSG Open,PA,IPF,Yes,Yes
+933,2017-08-12,Australia,QLD,Brisbane,Equipped National Championships,PA,IPF,Yes,Yes
+934,2014-08-22,Australia,VIC,Melbourne,Melbourne Open,PA,IPF,Yes,Yes
+935,2008-10-19,Australia,NSW,North Sydney,Sydney Grading Competition,PA,IPF,Yes,Yes
+936,2000-09-09,Australia,QLD,Brisbane,Brisbane Open,PA,IPF,Yes,Yes
+937,2017-10-08,Australia,NSW,Sydney,Viking Solstice,PA,IPF,Yes,Yes
+938,2016-08-13,Australia,NSW,Bulli,NSPC Open II,PA,IPF,Yes,Yes
+939,2017-06-04,Australia,VIC,Melbourne,The Strength Fortress Open,PA,IPF,Yes,Yes
+940,2016-03-05,Australia,QLD,Townsville,North Queensland Open,PA,IPF,Yes,Yes
+941,2015-02-08,Australia,VIC,Sunshine North,Rise Up Challenge,PA,IPF,Yes,Yes
+942,2009-05-16,Australia,NSW,Singleton,Singleton Strength Triathlon,PA,IPF,Yes,Yes
+943,2017-11-18,Australia,NSW,Newcastle,NSN High Performance Open,PA,IPF,Yes,Yes
+944,2014-10-04,Australia,VIC,Sunshine,RiseUp Challenge,PA,IPF,Yes,Yes
+945,2017-08-04,Australia,VIC,Melbourne,Melbourne Open,PA,IPF,Yes,Yes
+946,2017-04-29,Australia,NSW,Sydney,Pacific Invitational,PA,IPF,Yes,Yes
+947,2009-04-04,Australia,VIC,Melbourne,Australian Junior Championships and Intervarsity Championships and Melbourne Open,PA,IPF,Yes,Yes
+948,2014-07-06,Australia,VIC,Hawthorn,Winter Bash,PA,IPF,Yes,Yes
+949,2015-12-12,Australia,QLD,Brisbane,Iron Underground - Rage Against Steel,PA,IPF,Yes,Yes
+950,2006-05-20,Australia,NSW,,NSW Country Championships,PA,IPF,Yes,Yes
+951,2010-06-12,Australia,QLD,St Lucia,Acacia Park Novice Comp,PA,IPF,Yes,Yes
+952,2015-11-08,Australia,NSW,Penrith,Matti Tikka Opal Challenge,PA,IPF,Yes,Yes
+953,2001-02-17,Australia,NSW,Thornton,NSW Eastern Grading,PA,IPF,Yes,Yes
+954,2013-04-27,Australia,QLD,Brisbane,Iron Fest Open,PA,IPF,Yes,Yes
+955,2010-07-24,Australia,VIC,Melbourne,Australian Open Powerlifting and Bench Press Championships and Intervarsity Championships,PA,IPF,Yes,Yes
+956,2017-07-09,Australia,VIC,Melbourne,Avia Performance Winter Challenge,PA,IPF,Yes,Yes
+957,2000-04-30,Australia,QLD,Brisbane,Queensland State Open Championships,PA,IPF,Yes,Yes
+958,2011-04-17,Australia,NSW,Sydney,Western Sydney Hardcore Challenge,PA,IPF,Yes,Yes
+959,2004-07-24,Australia,NSW,Newcastle,Australian Powerlifting Championships,PA,IPF,Yes,Yes
+960,2001-12-01,Australia,QLD,,QLD East Coast Challenge,PA,IPF,Yes,Yes
+961,2014-11-23,Australia,VIC,Hawthorn,Strength and Fitness Australia Inter-University and Open Challenge,PA,IPF,Yes,Yes
+962,2009-03-28,Australia,QLD,Brisbane,Queensland Open,PA,IPF,Yes,Yes
+963,2004-04-26,Australia,VIC,Broadmeadows,Broadmeadows Open,PA,IPF,Yes,Yes
+964,2014-08-17,Australia,NSW,Penrith,Xtreme Power Challenge,PA,IPF,Yes,Yes
+965,2011-06-04,Australia,SA,Mannum,City vs Country,PA,IPF,Yes,Yes
+966,2014-09-28,Australia,NSW,Wollongong,NSPC Raw Challenge,PA,IPF,Yes,Yes
+967,2011-08-14,Australia,QLD,Brisbane,Acacia Park Winter Novice Powerlifting and Bench Press Competition,PA,IPF,Yes,Yes
+968,2000-02-10,Australia,TAS,Wynyard,Powerstation Qualifying,PA,IPF,Yes,Yes
+969,2009-04-18,Australia,WA,Perth,WA Qualifier,PA,IPF,Yes,Yes
+970,2013-04-27,Australia,WA,Mt Hawthorn,Strength Club Open,PA,IPF,Yes,Yes
+971,2009-02-28,Australia,VIC,Geelong,Australian Masters Games and Masters Championships and Geelong Open,PA,IPF,Yes,Yes
+972,2005-04-23,Australia,QLD,,Australian Juniors & Masters and QLD State Championships,PA,IPF,Yes,Yes
+973,2013-03-22,Australia,VIC,Melbourne,Australian Raw Powerlifting and Bench Press Championships and Blind Championships,PA,IPF,Yes,Yes
+974,2014-04-27,Australia,VIC,Melbourne,Melbourne Easter Open,PA,IPF,Yes,Yes
+975,2005-01-01,Australia,VIC,Colac,Victorian State Championships,PA,IPF,Yes,Yes
+976,2004-04-10,Australia,QLD,Townsville,North Queensland Games,PA,IPF,Yes,Yes
+977,2013-03-16,Australia,NSW,Caves Beach,Bristow Open Caves Beach,PA,IPF,Yes,Yes
+978,2013-10-12,Australia,VIC,Geelong,Australian Masters Games,PA,IPF,Yes,Yes
+979,2005-03-20,Australia,WA,,Qualifying Meet,PA,IPF,Yes,Yes
+980,2017-02-11,Australia,NSW,Sydney,Viking Night Raid,PA,IPF,Yes,Yes
+981,2001-09-09,Australia,QLD,Rockhampton,Rockhampton Open,PA,IPF,Yes,Yes
+982,2016-06-05,Australia,QLD,Brisbane,Iron Fest IV,PA,IPF,Yes,Yes
+983,2005-08-06,Australia,TAS,Hobart,Tasmanian Southern Challenge,PA,IPF,Yes,Yes
+984,2001-09-09,Australia,,,Ayr Open,PA,IPF,Yes,Yes
+985,2016-04-23,Australia,SA,Adelaide,Adelaide Open,PA,IPF,Yes,Yes
+986,2012-11-24,Australia,QLD,Brisbane,Matti Tikka Challenge,PA,IPF,Yes,Yes
+987,2002-01-01,Australia,VIC,,Victorian Extravaganza,PA,IPF,Yes,Yes
+988,2003-03-22,Australia,NSW,,NSW State Masters,PA,IPF,Yes,Yes
+989,2017-07-23,Australia,QLD,Brisbane,UQ Open II,PA,IPF,Yes,Yes
+990,2016-08-27,Australia,QLD,Brisbane,BNB Blast II,PA,IPF,Yes,Yes
+991,2002-01-01,Australia,,,Australian Schools Postal Bench Press,PA,IPF,Yes,Yes
+992,2012-10-14,Australia,QLD,Townsville,Townsville Open,PA,IPF,Yes,Yes
+993,2014-03-02,Australia,NSW,Wollongong,Bergner Fitness Powerlifting Club Competition,PA,IPF,Yes,Yes
+994,2013-06-22,Australia,SA,Mannum,South Australian Open,PA,IPF,Yes,Yes
+995,2014-08-17,Australia,QLD,Rockhampton,Rockhampton Open,PA,IPF,Yes,Yes
+996,2016-04-09,Australia,WA,Joondalup,Lifters Labyrinth,PA,IPF,Yes,Yes
+997,2011-09-18,Australia,VIC,Hawthorn,Starting Strength Challenge,PA,IPF,Yes,Yes
+998,2017-09-10,Australia,NT,Darwin,Territory Open,PA,IPF,Yes,Yes
+999,2009-11-28,Australia,VIC,Campbellfield,Global One Victorian Extravaganza,PA,IPF,Yes,Yes
+1000,2015-08-02,Australia,QLD,Brisbane,UQ Strength Challenge,PA,IPF,Yes,Yes
+1001,2001-03-31,Australia,NSW,Lake Macquarie,Lake Macquarie Bench Press,PA,IPF,Yes,Yes
+1002,2002-07-27,Australia,TAS,Launcestown,Australian Powerlifting Championships,PA,IPF,Yes,Yes
+1003,2006-12-02,Australia,VIC,,Victorian Extravaganza,PA,IPF,Yes,Yes
+1004,2007-04-28,Australia,NSW,Homebush,National Juniors and Masters and NSW Open and Blind Championships,PA,IPF,Yes,Yes
+1005,2008-04-12,Australia,SA,Port Pirie,South Australian Masters Games,PA,IPF,Yes,Yes
+1006,2009-07-18,Australia,NSW,Sydney,Australian PL and BP Championships and Sydney PL and BP Classic,PA,IPF,Yes,Yes
+1007,2013-10-20,Australia,NSW,Sydney,HydroFit Open II Narellan,PA,IPF,Yes,Yes
+1008,2000-05-06,Australia,TAS,Launceston,Tasmanian State Championships,PA,IPF,Yes,Yes
+1009,2009-09-05,Australia,NSW,Toronto,Lake Macquarie Open,PA,IPF,Yes,Yes
+1010,2014-02-22,Australia,QLD,St. Lucia,Summer UQ Novice,PA,IPF,Yes,Yes
+1011,2010-04-17,Australia,WA,Cannington,Western Australia Open,PA,IPF,Yes,Yes
+1012,2011-02-13,Australia,VIC,Melbourne,Melbourne Summer Bash,PA,IPF,Yes,Yes
+1013,2005-12-04,Australia,NSW,Syndey,Matti Tikka,PA,IPF,Yes,Yes
+1014,2001-03-24,Australia,TAS,Wynard,North West Qualifying,PA,IPF,Yes,Yes
+1015,2016-02-27,Australia,VIC,Mildura,Mildura Open,PA,IPF,Yes,Yes
+1016,2017-06-25,Australia,NSW,Sydney,Odin's Trial,PA,IPF,Yes,Yes
+1017,2001-01-01,Australia,,,Victorian Schools Bench Press,PA,IPF,Yes,Yes
+1018,2016-04-24,Australia,NSW,Sydney,Top Lifter II,PA,IPF,Yes,Yes
+1019,2002-01-01,Australia,QLD,,Queensland Club Championships,PA,IPF,Yes,Yes
+1020,2015-06-20,Australia,SA,Adelaide,SA Open,PA,IPF,Yes,Yes
+1021,2017-06-18,Australia,VIC,Melbourne,Lift for Life Charity Challenge,PA,IPF,Yes,Yes
+1022,2005-02-19,Australia,QLD,,QLD Juniors and Masters Powerlifting & Bench Press Championships,PA,IPF,Yes,Yes
+1023,2009-02-21,Australia,SA,Mannum,Country Open,PA,IPF,Yes,Yes
+1024,2010-06-06,Australia,NSW,Sydney,Bondi Beach Lift,PA,IPF,Yes,Yes
+1025,2015-06-28,Australia,QLD,Cairns,NQ Open II,PA,IPF,Yes,Yes
+1026,2012-10-18,Australia,NSW,North Sydney,Sydney Heavy Metal Challenge,PA,IPF,Yes,Yes
+1027,2000-11-25,Australia,NSW,Carey Bay,Matti Tikka Powerlifting Championships,PA,IPF,Yes,Yes
+1028,2015-10-31,Australia,ACT,Canberra,Capital Challenge,PA,IPF,Yes,Yes
+1029,2017-12-10,Australia,TAS,Hobart,Raw Strength Championships,PA,IPF,Yes,Yes
+1030,2016-02-20,Australia,NSW,Newcastle,Bristow Open,PA,IPF,Yes,Yes
+1031,2003-09-07,Australia,QLD,Townsville,Townsville Open,PA,IPF,Yes,Yes
+1032,2014-02-16,Australia,NSW,Narellan,Southwest Strength Challenge,PA,IPF,Yes,Yes
+1033,2017-05-20,Australia,QLD,Brisbane,BNB Bash III,PA,IPF,Yes,Yes
+1034,2000-08-13,Australia,SA,Adelaide,Dean Bennett Memorial,PA,IPF,Yes,Yes
+1035,2011-06-11,Australia,TAS,Launceston,Tasmanian Open,PA,IPF,Yes,Yes
+1036,2014-04-27,Australia,NSW,South Granville,Hercules of the West,PA,IPF,Yes,Yes
+1037,2009-02-15,Australia,NSW,Sydney,February Might and Power,PA,IPF,Yes,Yes
+1038,2016-08-20,Australia,NSW,Newcastle,Newcastle Open,PA,IPF,Yes,Yes
+1039,2016-04-23,Australia,QLD,Rockhampton,Live Strong - Remember the Anzacs,PA,IPF,Yes,Yes
+1040,2016-12-18,Australia,VIC,Melbourne,Obsidian Xmas Showdown,PA,IPF,Yes,Yes
+1041,2017-12-16,Australia,QLD,Brisbane,BNB Blast V,PA,IPF,Yes,Yes
+1042,2010-06-12,Australia,TAS,Wynyard,Tasmanian Open,PA,IPF,Yes,Yes
+1043,2000-01-01,Australia,,,Schools Bench Press,PA,IPF,Yes,Yes
+1044,2009-03-07,Australia,NSW,Toronto,NSW Open Juniors and Masters,PA,IPF,Yes,Yes
+1045,2012-08-12,Australia,QLD,Brisbane,Acacia Park Winter Novice Competition,PA,IPF,Yes,Yes
+1046,2017-12-02,Australia,WA,Perth,True Raw II,PA,IPF,Yes,Yes
+1047,2009-10-10,Australia,TAS,Ulverstone,Ulverstone Open,PA,IPF,Yes,Yes
+1048,2000-06-04,Australia,NSW,Singleton,NSW Strength Triathlon,PA,IPF,Yes,Yes
+1049,2002-05-05,Australia,WA,,WA State Titles,PA,IPF,Yes,Yes
+1050,2015-05-17,Australia,QLD,Rockhampton,Victor Health Strength Classic,PA,IPF,Yes,Yes
+1051,2000-03-18,Australia,NSW,Carey Bay,NSW Northern Zone,PA,IPF,Yes,Yes
+1052,2000-12-09,Australia,VIC,Melbourne,Melbourne University Extravaganza,PA,IPF,Yes,Yes
+1053,2006-04-22,Australia,QLD,,Queensland State Championships,PA,IPF,Yes,Yes
+1054,2013-03-23,Australia,VIC,Melbourne,Raw Pacific Invitational,PA,IPF,Yes,Yes
+1055,2010-03-14,Australia,SA,Adelaide,Adelaide Classic,PA,IPF,Yes,Yes
+1056,2010-09-17,Australia,QLD,Townsville,John Hill Cup,PA,IPF,Yes,Yes
+1057,2008-04-26,Australia,QLD,Brisbane,Queensland Open,PA,IPF,Yes,Yes
+1058,2008-11-30,Australia,QLD,St. Lucia,South East Challenge,PA,IPF,Yes,Yes
+1059,2015-03-21,Australia,NSW,Penrith,Team Xtreme Viking Classic,PA,IPF,Yes,Yes
+1060,2006-11-18,Australia,NSW,Myuna Bay,Matti Tikka,PA,IPF,Yes,Yes
+1061,2007-07-28,Australia,QLD,Brisbane,Australian Open and Invitational Powerlifting Championships,PA,IPF,Yes,Yes
+1062,2011-06-26,Australia,VIC,Melbourne,Hawk Challenge,PA,IPF,Yes,Yes
+1063,2017-02-26,Australia,NT,Darwin,Cyclone Challenge,PA,IPF,Yes,Yes
+1064,2016-07-02,Australia,NSW,Wollongong,Definition Strength Challenge,PA,IPF,Yes,Yes
+1065,2016-04-02,Australia,NSW,Wollongong,NSPC Open,PA,IPF,Yes,Yes
+1066,2013-11-24,Australia,NSW,Sydney,Matti Tikka Challenge,PA,IPF,Yes,Yes
+1067,2002-10-12,Australia,NSW,,NSW Spring Grading,PA,IPF,Yes,Yes
+1068,2017-05-06,Australia,WA,Perth,True Raw II,PA,IPF,Yes,Yes
+1069,2014-06-28,Australia,NSW,Hamilton North,Newcastle Open,PA,IPF,Yes,Yes
+1070,2006-02-25,Australia,QLD,Townsville,Queensland Junior & Masters Championships,PA,IPF,Yes,Yes
+1071,2017-12-17,Australia,VIC,Melbourne,The Strength Fortress End of Year Challenge,PA,IPF,Yes,Yes
+1072,2016-08-05,Australia,VIC,Melbourne,Australian Bench Press Championships,PA,IPF,Yes,Yes
+1073,2016-08-05,Australia,VIC,Melbourne,Melbourne Open,PA,IPF,Yes,Yes
+1074,2003-12-06,Australia,TAS,,Tasmanian Championships,PA,IPF,Yes,Yes
+1075,2010-03-27,Australia,QLD,Brisbane,Queensland Open,PA,IPF,Yes,Yes
+1076,2007-08-25,Australia,TAS,Launceston,Tasmanian Open,PA,IPF,Yes,Yes
+1077,2016-12-04,Australia,QLD,Cairns,NQ Open IV,PA,IPF,Yes,Yes
+1078,2005-02-27,Australia,NSW,Sydney,NSW Grading Competition,PA,IPF,Yes,Yes
+1079,2017-06-24,Australia,QLD,Brisbane,BNB Blast IV,PA,IPF,Yes,Yes
+1080,2010-10-02,Australia,WA,Perth,Wild West Challenge,PA,IPF,Yes,Yes
+1081,2010-10-09,Australia,SA,Mannum,Riverland Challenge,PA,IPF,Yes,Yes
+1082,2010-06-12,Australia,WA,Karratha,Pilbara Powerfest,PA,IPF,Yes,Yes
+1083,2016-06-04,Australia,NSW,Wollongong,The Lab Test,PA,IPF,Yes,Yes
+1084,2012-06-02,Australia,NSW,Newcastle,Strength Republic Open,PA,IPF,Yes,Yes
+1085,2001-03-31,Australia,NSW,Toronto,Australian Junior & Masters Powerlifting Championships,PA,IPF,Yes,Yes
+1086,2016-02-21,Australia,NSW,Sydney,Top Lifter VI,PA,IPF,Yes,Yes
+1087,2006-02-18,Australia,VIC,Colac,Early Bird PL & BP Competition,PA,IPF,Yes,Yes
+1088,2015-09-19,Australia,SA,Adelaide,SA Strength Classic,PA,IPF,Yes,Yes
+1089,2001-03-10,Australia,QLD,Townsville,North Queensland Challenge,PA,IPF,Yes,Yes
+1090,2012-03-17,Australia,NSW,Caves Beach,Bristow Open,PA,IPF,Yes,Yes
+1091,2007-09-08,Australia,NSW,Lake Macquarie,NSW Open Bench Press & Lake Macquarie Bench Press & Deadlift,PA,IPF,Yes,Yes
+1092,2011-02-26,Australia,QLD,Townsville,The Powerlifting Contender,PA,IPF,Yes,Yes
+1093,2001-06-17,Australia,SA,Adelaide,Bill Fox Bench Press,PA,IPF,Yes,Yes
+1094,2016-08-20,Australia,WA,Perth,Perth Open Championships,PA,IPF,Yes,Yes
+1095,2015-02-21,Australia,NSW,Caves Beach,Bristow Open,PA,IPF,Yes,Yes
+1096,2015-10-24,Australia,QLD,Brisbane,Brisbane Fitness and Health Expo,PA,IPF,Yes,Yes
+1097,2012-02-26,Australia,NSW,North Sydney,North Sydney Open,PA,IPF,Yes,Yes
+1098,2010-06-27,Australia,VIC,Hawthorn,Hawk Novice Comp,PA,IPF,Yes,Yes
+1099,2015-06-07,Australia,QLD,Brisbane,UQ Challenge,PA,IPF,Yes,Yes
+1100,2009-06-13,Australia,VIC,Campbellfield,Global One Challenge,PA,IPF,Yes,Yes
+1101,2013-07-13,Australia,QLD,Townsville,Australian Equipped Powerlifting and Bench Press Championships,PA,IPF,Yes,Yes
+1102,2009-10-03,Australia,WA,Cannington,Wild West Challenge,PA,IPF,Yes,Yes
+1103,2006-02-12,Australia,NSW,Sydney,NSW Grading Competition,PA,IPF,Yes,Yes
+1104,2007-05-19,Australia,QLD,Townsville,Last Chance Competition,PA,IPF,Yes,Yes
+1105,2001-05-20,Australia,WA,Perth,West Australian Championships,PA,IPF,Yes,Yes
+1106,2003-12-01,Australia,QLD,,QLD Club Championships,PA,IPF,Yes,Yes
+1107,2005-06-25,Australia,VIC,Broadmeadows,Winter Open,PA,IPF,Yes,Yes
+1108,2014-08-10,Australia,ACT,Fyshwick,OneRepMax Challenge,PA,IPF,Yes,Yes
+1109,2015-10-16,Australia,NSW,Sydney,Sydney Open,PA,IPF,Yes,Yes
+1110,2001-10-14,Australia,NSW,Myuna Bay,NSW Northern Zone,PA,IPF,Yes,Yes
+1111,2017-07-22,Australia,WA,Perth,Barbarian Invasion,PA,IPF,Yes,Yes
+1112,2016-12-11,Australia,NSW,Wollongong,NSPC Open III,PA,IPF,Yes,Yes
+1113,2014-08-11,Australia,QLD,Albion,Iron Fest II,PA,IPF,Yes,Yes
+1114,2017-10-01,Australia,NSW,Sydney,City Strength HQ Open IV,PA,IPF,Yes,Yes
+1115,2000-10-29,Australia,WA,Perth,WA Qualifier,PA,IPF,Yes,Yes
+1116,2007-10-06,Australia,WA,Cannington,Western Australia Open,PA,IPF,Yes,Yes
+1117,2008-02-17,Australia,NSW,Sydney,Sydney Open Powerlifting and Bench Press,PA,IPF,Yes,Yes
+1118,2002-09-07,Australia,VIC,,Victorian Country Championships,PA,IPF,Yes,Yes
+1119,2015-12-12,Australia,WA,Perth,Lifter's Den Open,PA,IPF,Yes,Yes
+1120,2006-04-15,Australia,QLD,Mackay,North Queensland Games,PA,IPF,Yes,Yes
+1121,2001-07-21,Australia,TAS,,Tasmanian Raw Competition,PA,IPF,Yes,Yes
+1122,2016-03-12,Australia,QLD,Brisbane,SSG Powerlifting Challenge,PA,IPF,Yes,Yes
+1123,2012-08-19,Australia,NSW,Sydney,Total Strength Elite Max,PA,IPF,Yes,Yes
+1124,2011-10-16,Australia,QLD,Brisbane,Autumn UQ Novice Comp,PA,IPF,Yes,Yes
+1125,2001-10-21,Australia,WA,Perth,WA Novice & Qualifier,PA,IPF,Yes,Yes
+1126,2004-02-21,Australia,VIC,Melbourne,Southern Zone Open,PA,IPF,Yes,Yes
+1127,2008-04-13,Australia,,,Bring It On Challenge,PA,IPF,Yes,Yes
+1128,2006-07-28,Australia,QLD,Brisbane,National Championships & Queensland Invitational,PA,IPF,Yes,Yes
+1129,2006-09-16,Australia,QLD,Brisbane,UQ Novice Powerlifting Championships,PA,IPF,Yes,Yes
+1130,2016-09-11,Australia,QLD,Brisbane,UQ Open,PA,IPF,Yes,Yes
+1131,2012-06-10,Australia,QLD,Brisbane,Brisbane Cup,PA,IPF,Yes,Yes
+1132,2016-08-05,Australia,VIC,Melbourne,Australian Equipped Bench Press Championships,PA,IPF,Yes,Yes
+1133,2011-11-27,Australia,VIC,Melbourne,Victorian Extravaganza,PA,IPF,Yes,Yes
+1134,2009-08-13,Australia,QLD,St. Lucia,UQ Novice Competition II,PA,IPF,Yes,Yes
+1135,2005-10-08,Australia,NSW,Toronto,NSW Spring Grading,PA,IPF,Yes,Yes
+1136,2016-03-27,Australia,QLD,Brisbane,UQ Challenge,PA,IPF,Yes,Yes
+1137,2003-03-15,Australia,QLD,Townsville,Tropical Bodies Open,PA,IPF,Yes,Yes
+1138,2016-08-28,Australia,NSW,Penrith,Strength Nation Classic II,PA,IPF,Yes,Yes
+1139,2003-02-22,Australia,VIC,Colac,Southern Zone Open,PA,IPF,Yes,Yes
+1140,2017-12-09,Australia,QLD,Cairns,Deep North Challenge,PA,IPF,Yes,Yes
+1141,2010-11-28,Australia,VIC,Hawthorn,Victorian Extravaganza,PA,IPF,Yes,Yes
+1142,2007-04-22,Australia,NSW,Sydney,Bring It On Youth Bench Press Competition,PA,IPF,Yes,Yes
+1143,2014-07-26,Australia,VIC,Mildura,Australian Equipped Powerlifting and Bench Press Championships,PA,IPF,Yes,Yes
+1144,2010-04-11,Australia,VIC,Hawthorn,Victorian Open,PA,IPF,Yes,Yes
+1145,2016-05-22,Australia,NSW,Sydney,Hercules of the Hills,PA,IPF,Yes,Yes
+1146,2007-08-25,Australia,QLD,,UQ Powerlifting and Weightlifting Novice Competition,PA,IPF,Yes,Yes
+1147,2017-11-05,Australia,VIC,Melbourne,Obsidian Strength Showdown IV,PA,IPF,Yes,Yes
+1148,2011-02-27,Australia,VIC,North Sydney,Sydney Open,PA,IPF,Yes,Yes
+1149,2011-07-20,Australia,VIC,Melbourne,Australian Powerlifting and Bench Press Championships and Pacific Invitational,PA,IPF,Yes,Yes
+1150,2007-11-24,Australia,TAS,Wynyard,Wynyard Cup,PA,IPF,Yes,Yes
+1151,2017-07-30,Australia,NSW,Sydney,Top Lifter IV,PA,IPF,Yes,Yes
+1152,2012-06-24,Australia,QLD,Townsville,North Queensland Games,PA,IPF,Yes,Yes
+1153,2004-01-01,Australia,,,Australian Schools Bench Press Competition,PA,IPF,Yes,Yes
+1154,2015-05-31,Australia,WA,Perth,Perth Open,PA,IPF,Yes,Yes
+1155,2002-03-23,Australia,NSW,,NSW Northern Zone,PA,IPF,Yes,Yes
+1156,2015-05-03,Australia,NSW,Sydney,Top Lifter II,PA,IPF,Yes,Yes
+1157,2016-06-18,Australia,NSW,Penrith,Strength Nation Classic,PA,IPF,Yes,Yes
+1158,2012-04-01,Australia,VIC,Melbourne,Raw Pacific Invitational,PA,IPF,Yes,Yes
+1159,2017-05-21,Australia,NSW,Sydney,Top Lifter III,PA,IPF,Yes,Yes
+1160,2000-02-27,Australia,WA,Perth,WA Novice Qualifier,PA,IPF,Yes,Yes
+1161,2003-09-07,Australia,NSW,Lake Macquarie,NSW State Bench Press & Lake Macquarie Deadlift,PA,IPF,Yes,Yes
+1162,2017-02-04,Australia,QLD,Brisbane,BNB Blast III,PA,IPF,Yes,Yes
+1163,2014-11-22,Australia,VIC,Keilor,Iron Revolution Cup,PA,IPF,Yes,Yes
+1164,2003-03-02,Australia,QLD,,QLD State Juniors & Masters Championships,PA,IPF,Yes,Yes
+1165,2014-05-03,Australia,VIC,Melbourne,Blind Powerlifting Workshop,PA,IPF,Yes,Yes
+1166,2014-12-21,Australia,NSW,Marrickville,Battle of the Titans and Southwest Strength Challenge,PA,IPF,Yes,Yes
+1167,2014-05-03,Australia,QLD,Brisbane,UQ Challenge,PA,IPF,Yes,Yes
+1168,2014-03-23,Australia,NSW,Kirrawee,Heavy Athletics Powerlifting,PA,IPF,Yes,Yes
+1169,2014-04-12,Australia,WA,Perth,Perth Open,PA,IPF,Yes,Yes
+1170,2016-11-26,Australia,TAS,Hobart,Raw Strength Open,PA,IPF,Yes,Yes
+1171,2015-09-12,Australia,WA,Perth,Pacific Invitational II,PA,IPF,Yes,Yes
+1172,2008-07-26,Australia,NSW,Newcastle,National Open and Blind Championships and Powerfest Classic,PA,IPF,Yes,Yes
+1173,2014-03-22,Australia,QLD,Brisbane,Strength Sports Gym Novice Powerlifting Challenge,PA,IPF,Yes,Yes
+1174,2003-10-11,Australia,NSW,,NSW Spring Grading,PA,IPF,Yes,Yes
+1175,2016-03-06,Australia,NSW,Sydney,Clean Health Cup,PA,IPF,Yes,Yes
+1176,2008-02-23,Australia,SA,Port Pirie,Port Pirie Masters Come and Try Comp and Port Pirie Open,PA,IPF,Yes,Yes
+1177,2017-07-15,Australia,NSW,Wollongong,NSPC Open II,PA,IPF,Yes,Yes
+1178,2009-01-31,Australia,QLD,St. Lucia,UQ Novice Championships,PA,IPF,Yes,Yes
+1179,2012-10-21,Australia,NSW,North Sydney,Monster Bench Press Competition,PA,IPF,Yes,Yes
+1180,2015-05-16,Australia,VIC,Melbourne,Obsidian Open,PA,IPF,Yes,Yes
+1181,2008-08-23,Australia,TAS,Launceston,Launceston Open,PA,IPF,Yes,Yes
+1182,2013-08-25,Australia,NSW,Penrith,His and Her's Power Challenge,PA,IPF,Yes,Yes
+1183,2014-05-03,Australia,NSW,Caves Beach,Lake Macquarie Open,PA,IPF,Yes,Yes
+1184,2001-07-17,Australia,NSW,Singleton,Singleton Strength Triathlon,PA,IPF,Yes,Yes
+1185,2016-06-26,Australia,VIC,Melbourne,SFA Lift for Life,PA,IPF,Yes,Yes
+1186,2009-06-19,Australia,QLD,Acacia Park,Acacia Park Novice Competition,PA,IPF,Yes,Yes
+1187,2004-12-05,Australia,NSW,Myuna Bay,Matti Tikka,PA,IPF,Yes,Yes
+1188,2017-09-09,Australia,QLD,Townsville,Iron Redemption,PA,IPF,Yes,Yes
+1189,2016-03-19,Australia,ACT,Canberra,GymQuip Power Challenge,PA,IPF,Yes,Yes
+1190,2017-08-12,Australia,QLD,Brisbane,Equipped National Bench Press Championships,PA,IPF,Yes,Yes
+1191,2008-06-14,Australia,TAS,Wynyard,Wynyard Cup,PA,IPF,Yes,Yes
+1192,2004-09-18,Australia,NSW,Sydney,Wynyard Invitational,PA,IPF,Yes,Yes
+1193,2013-02-23,Australia,QLD,Townsville,Tropical Frenzy,PA,IPF,Yes,Yes
+1194,2016-04-16,Australia,QLD,Cairns,BNB Blast,PA,IPF,Yes,Yes
+1195,2013-12-01,Australia,VIC,Hawthorn,Victorian Extravaganza,PA,IPF,Yes,Yes
+1196,2015-12-05,Australia,NSW,Fairy Meadow,NSPC End of Year Challenge,PA,IPF,Yes,Yes
+1197,2017-04-01,Australia,QLD,Brisbane,SSG Open,PA,IPF,Yes,Yes
+1198,2015-03-15,Australia,VIC,Hawthorn,SFA Raw Talent Scout,PA,IPF,Yes,Yes
+1199,2003-01-01,Australia,,,Australian Schools Bench Press Championship,PA,IPF,Yes,Yes
+1200,2008-04-12,Australia,WA,Perth,Perth Open,PA,IPF,Yes,Yes
+1201,2017-07-02,Australia,NSW,Sydney,City Strength HQ Open III,PA,IPF,Yes,Yes
+1202,2011-10-15,Australia,SA,Adelaide,Australian Masters Games,PA,IPF,Yes,Yes
+1203,2013-06-01,Australia,NSW,Caves Beach,Newcastle Open,PA,IPF,Yes,Yes
+1204,2002-03-10,Australia,WA,,WA Qualifier,PA,IPF,Yes,Yes
+1205,2004-09-12,Australia,QLD,Townsville,JT Cup Championships,PA,IPF,Yes,Yes
+1206,2017-11-19,Australia,VIC,Melbourne,Avia Performance Spring Open,PA,IPF,Yes,Yes
+1207,2000-10-28,Australia,SA,Murray Bridge,Total Fitness Challenge,PA,IPF,Yes,Yes
+1208,2000-03-05,Australia,SA,Adelaide,Adelaide Bench Press Comp,PA,IPF,Yes,Yes
+1209,2012-10-13,Australia,SA,Mannum,South Australian Open,PA,IPF,Yes,Yes
+1210,2001-05-05,Australia,QLD,Brisbane,QLD State Championships,PA,IPF,Yes,Yes
+1211,2017-11-19,Australia,VIC,Melbourne,SFA 4th Intervarsity Competition,PA,IPF,Yes,Yes
+1212,2016-10-02,Australia,NT,Darwin,Territory Open,PA,IPF,Yes,Yes
+1213,2016-05-22,Australia,VIC,Melbourne,Obsidian Strength V,PA,IPF,Yes,Yes
+1214,2017-03-11,Australia,NSW,Wollongong,NSPC Open 1,PA,IPF,Yes,Yes
+1215,2016-09-25,Australia,NSW,Sydney,Hercules of the Hills II,PA,IPF,Yes,Yes
+1216,2000-12-02,Australia,TAS,Wynyard,Tasmanian Regional Challenge,PA,IPF,Yes,Yes
+1217,2015-11-07,Australia,QLD,Brisbane,BNB Barbell Bash,PA,IPF,Yes,Yes
+1218,2016-11-27,Australia,NSW,Sydney,Top Lifter V,PA,IPF,Yes,Yes
+1219,2006-06-10,Australia,VIC,Broadmeadows,City Powerlifting Competition,PA,IPF,Yes,Yes
+1220,2004-05-01,Australia,VIC,,Boatwood Challenge,PA,IPF,Yes,Yes
+1221,2015-11-29,Australia,QLD,Rockhampton,Vector Health Strength Classic III,PA,IPF,Yes,Yes
+1222,2015-01-31,Australia,WA,Perth,Barbarian Bash,PA,IPF,Yes,Yes
+1223,2001-02-11,Australia,VIC,Colac,Victorian Summer Open,PA,IPF,Yes,Yes
+1224,2011-09-30,Australia,NSW,North Sydney,North Sydney Bench Press Comp,PA,IPF,Yes,Yes
+1225,2005-08-27,Australia,QLD,Brisbane,UQ Novice Powerlifting and Bench Press Competiton,PA,IPF,Yes,Yes
+1226,2016-10-08,Australia,WA,Perth,True Raw at Onyx,PA,IPF,Yes,Yes
+1227,2011-03-05,Australia,SA,Adelaide,Fortus Classic,PA,IPF,Yes,Yes
+1228,2010-10-17,Australia,NSW,North Sydney,North Sydney Bench Press Competition,PA,IPF,Yes,Yes
+1229,2008-05-17,Australia,NSW,Singleton,Singleton Strength Triathlon,PA,IPF,Yes,Yes
+1230,2014-05-25,Australia,VIC,Melbourne,Hawk Challenge,PA,IPF,Yes,Yes
+1231,2017-08-27,Australia,VIC,Melbourne,Strength Fortress Open II,PA,IPF,Yes,Yes
+1232,2017-12-02,Australia,QLD,Rockhampton,Bend Steel,PA,IPF,Yes,Yes
+1233,2013-07-14,Australia,QLD,Townsville,North Queensland Challenge,PA,IPF,Yes,Yes
+1234,2010-12-04,Australia,NSW,Bondi,Matti Tikka Challenge,PA,IPF,Yes,Yes
+1235,2013-02-17,Australia,VIC,Hawthorn,Melbourne Summer Bash,PA,IPF,Yes,Yes
+1236,2009-06-20,Australia,WA,Perth,Western Australia Open,PA,IPF,Yes,Yes
+1237,2011-05-21,Australia,NSW,Singleton,Raw Singleton Strength Triathlon,PA,IPF,Yes,Yes
+1238,2016-02-07,Australia,VIC,Melbourne,That SFA Comp,PA,IPF,Yes,Yes
+1239,2016-05-28,Australia,WA,Cockburn,Roar's Rampage,PA,IPF,Yes,Yes
+1240,2011-03-26,Australia,VIC,Melbourne,Australian Raw Powerlifting and Bench Press Championships,PA,IPF,Yes,Yes
+1241,2017-02-26,Australia,VIC,Melbourne,Obsidian Showdown Open Day Challenge,PA,IPF,Yes,Yes
+1242,2015-06-27,Australia,NSW,Bulli,NSPC Night Challenge II,PA,IPF,Yes,Yes
+1243,2014-02-08,Australia,VIC,Merbein,Mildura Open,PA,IPF,Yes,Yes
+1244,2013-10-05,Australia,QLD,Brisbane,Return of the Iron,PA,IPF,Yes,Yes
+1245,2004-11-27,Australia,VIC,,Victorian Extravaganza,PA,IPF,Yes,Yes
+1246,2015-07-04,Australia,QLD,Brisbane,Champions of Iron,PA,IPF,Yes,Yes
+1247,2002-09-08,Australia,NSW,Lake Macquarie,Lake Macquarie Bench & Deadlift,PA,IPF,Yes,Yes
+1248,2001-02-03,Australia,TAS,Launceston,Tasmanian Northern Qualifying,PA,IPF,Yes,Yes
+1249,2015-05-16,Australia,NSW,Toronto,Toronto Open,PA,IPF,Yes,Yes
+1250,2007-02-10,Australia,QLD,,University of Queensland Powerlifting and Weightlifting Club Inc Novice Competition,PA,IPF,Yes,Yes
+1251,2017-04-02,Australia,VIC,Melbourne,Chan Challenge,PA,IPF,Yes,Yes
+1252,2002-10-05,Australia,TAS,,Tasmanian Juniors & Masters,PA,IPF,Yes,Yes
+1253,2003-01-01,Australia,QLD,,QLD State Championships,PA,IPF,Yes,Yes
+1254,2010-02-28,Australia,NSW,North Sydney,Sydney Powerlifting and Bench Press Open,PA,IPF,Yes,Yes
+1255,2009-05-16,Australia,TAS,Wynyard,Tasmanian Open,PA,IPF,Yes,Yes
+1256,2001-04-29,Australia,SA,Adelaide,SA State Championships,PA,IPF,Yes,Yes
+1257,2013-04-27,Australia,ACT,Canberra,Capital Challenge,PA,IPF,Yes,Yes
+1258,2013-01-20,Australia,QLD,Brisbane,Summer UQ Novice,PA,IPF,Yes,Yes
+1259,2003-06-21,Australia,VIC,Broadmeadows,Broadmeadows Open,PA,IPF,Yes,Yes
+1260,2015-02-07,Australia,QLD,Brisbane,Queensland Cup,PA,IPF,Yes,Yes
+1261,2000-09-09,Australia,VIC,Melbourne,Victorian Country Championships,PA,IPF,Yes,Yes
+1262,2011-09-03,Australia,NSW,Toronto,Toronto Open,PA,IPF,Yes,Yes
+1263,2015-06-21,Australia,NSW,Redfern,Top Lifter III Day 1,PA,IPF,Yes,Yes
+1264,2005-07-30,Australia,QLD,Townsville,Australian Powerlifting & Bench Press Championships,PA,IPF,Yes,Yes
+1265,2007-03-10,Australia,VIC,Mildura,Victorian-South Australian PL and BP Open and Murray River Challenge,PA,IPF,Yes,Yes
+1266,2017-11-26,Australia,NSW,Sydney,City Strength Open V,PA,IPF,Yes,Yes
+1267,2017-03-18,Australia,WA,Perth,Barbarian Conquest,PA,IPF,Yes,Yes
+1268,2010-12-04,Australia,TAS,Launceston,Tassie Final Show of Strength,PA,IPF,Yes,Yes
+1269,2003-01-02,Australia,,,Australian Postal Bench Press Championships,PA,IPF,Yes,Yes
+1270,2003-01-01,Australia,NSW,,New South Wales State Championships,PA,IPF,Yes,Yes
+1271,2017-03-19,Australia,VIC,Melbourne,Obsidian Showdown II,PA,IPF,Yes,Yes
+1272,2003-04-12,Australia,VIC,Colac,Victorian Open Championships,PA,IPF,Yes,Yes
+1273,2017-09-03,Australia,QLD,Brisbane,UQ Open III,PA,IPF,Yes,Yes
+1274,2004-11-28,Australia,QLD,Mansfield,SE Challenge and Club Championships,PA,IPF,Yes,Yes
+1275,2000-09-09,Australia,QLD,Rockhampton,North Queensland Open,PA,IPF,Yes,Yes
+1276,2004-04-26,Australia,VIC,Melbourne,Flanders Championships,PA,IPF,Yes,Yes
+1277,2002-02-17,Australia,NSW,,NSW Eastern Grading,PA,IPF,Yes,Yes
+1278,2016-07-31,Australia,NT,Darwin,Next Level Cup,PA,IPF,Yes,Yes
+1279,2008-11-23,Australia,NSW,North Sydney,Matti Tikka Open Powerlifting & Bench Press Championships,PA,IPF,Yes,Yes
+1280,2010-03-27,Australia,NSW,Toronto,Bristow Open,PA,IPF,Yes,Yes
+1281,2016-09-11,Australia,NSW,Sydney,Top Lifter IV,PA,IPF,Yes,Yes
+1282,2007-06-02,Australia,NSW,Singleton,Singleton Strength Triathlon and Hunter Valley Bench Comp,PA,IPF,Yes,Yes
+1283,2005-05-15,Australia,WA,,WA State Titles,PA,IPF,Yes,Yes
+1284,2004-09-04,Australia,VIC,Colac,Victorian Country Championships,PA,IPF,Yes,Yes
+1285,2017-04-30,Australia,NSW,Sydney,Pro Deadlift,PA,IPF,Yes,Yes
+1286,2000-12-09,Australia,QLD,Jacobs Well,Club Championships and SE QLD Challenge,PA,IPF,Yes,Yes
+1287,2016-12-17,Australia,QLD,Brisbane,Unchain the Iron,PA,IPF,Yes,Yes
+1288,2005-03-12,Australia,QLD,Townsville,Tropical Bodies Open,PA,IPF,Yes,Yes
+1289,2016-10-21,Australia,QLD,Brisbane,Australian Open Championships,PA,IPF,Yes,Yes
+1290,2017-10-21,Australia,WA,Perth,Intrepidus Showdown,PA,IPF,Yes,Yes
+1291,2008-09-28,Australia,QLD,Townsville,Townsville Open,PA,IPF,Yes,Yes
+1292,2004-01-01,Australia,TAS,,Tasmanian Regionals,PA,IPF,Yes,Yes
+1293,2005-12-03,Australia,QLD,Ormeau,SE Challenge and Club Championships,PA,IPF,Yes,Yes
+1294,2007-02-11,Australia,NSW,Syndey,Sydney Branch Grading PL & BP Competition,PA,IPF,Yes,Yes
+1295,2016-02-07,Australia,QLD,Brisbane,Crush the Iron,PA,IPF,Yes,Yes
+1296,2004-01-01,Australia,WA,Perth,WA Qualifier,PA,IPF,Yes,Yes
+1297,2017-11-05,Australia,NT,Darwin,Next Level Cup,PA,IPF,Yes,Yes
+1298,2012-07-15,Australia,NSW,West Sydney,Western Sydney Hardcore Challenge,PA,IPF,Yes,Yes
+1299,2006-03-11,Australia,NSW,Myuna Bay,NSW State Championships,PA,IPF,Yes,Yes
+1300,2000-02-26,Australia,QLD,Brisbane,Queensland Juniors & Brisbane Open,PA,IPF,Yes,Yes
+1301,2016-05-07,Australia,NSW,Perth,Nordic Nightmare II,PA,IPF,Yes,Yes
+1302,2013-10-05,Australia,VIC,Merbein,Murray River Challenge,PA,IPF,Yes,Yes
+1303,2015-10-10,Australia,SA,Adelaide,Australian Masters Games,PA,IPF,Yes,Yes
+1304,2008-03-08,Australia,NSW,,NSW Open Juniors & Masters Bench Press and Disabled Competition,PA,IPF,Yes,Yes
+1305,2017-12-09,Australia,ACT,Canberra,The Strength Syndicate End of Year Bash,PA,IPF,Yes,Yes
+1306,2011-10-08,Australia,WA,Belmont,Wild West Challenge,PA,IPF,Yes,Yes
+1307,2010-01-30,Australia,QLD,St Lucia,Summer UQ Novice Competition,PA,IPF,Yes,Yes
+1308,2017-10-21,Australia,QLD,Brisbane,Brisbane Open,PA,IPF,Yes,Yes
+1309,2010-09-04,Australia,NSW,Toronto,Lake Macquarie Open,PA,IPF,Yes,Yes
+1310,2016-03-13,Australia,VIC,Melbourne,Obsidian Classic IV,PA,IPF,Yes,Yes
+1311,2009-03-29,Australia,QLD,Townsville,Townsville Open,PA,IPF,Yes,Yes
+1312,2008-10-11,Australia,SA,Mannum,South Australian Open,PA,IPF,Yes,Yes
+1313,2008-04-14,Australia,QLD,Townsville,Suncorp Games,PA,IPF,Yes,Yes
+1314,2024-05-09,Panama,,,Clasificatorio,FPP,IPF,Yes,Yes
+1315,2026-04-25,Panama,,,Clasico de Chiriqui,FPP,IPF,Yes,Yes
+1316,2026-07-04,Panama,,,City Cup,FPP,IPF,Yes,Yes
+1317,2025-12-07,Panama,,Panama City,Campeonato Nacional,FPP,IPF,Yes,Yes
+1318,2024-11-24,Panama,,,Campeonato Nacional,FPP,IPF,Yes,Yes
+1319,2017-03-05,USA,OH,Columbus,Arnold Slingshot Pro Deadlift,NAPF,IPF,Yes,Yes
+1320,2015-03-08,USA,OH,Columbus,Arnold Pro Deadlift,NAPF,IPF,Yes,Yes
+1321,2013-03-01,USA,OH,Columbus,Raw Challenge,NAPF,IPF,Yes,Yes
+1322,2007-01-01,Nicaragua,,Managua,Campeonato Centroamericano de Powerlifting,NAPF,IPF,Yes,Yes
+1323,2008-03-02,USA,OH,Columbus,Arnold International Pro Bench,NAPF,IPF,Yes,Yes
+1324,2012-03-04,USA,OH,Columbus,Titan Pro Bench,NAPF,IPF,Yes,Yes
+1325,2008-05-30,Nicaragua,,Managua,Jornada Internacional de Levantamiento de Potencia,NAPF,IPF,Yes,Yes
+1326,2014-02-28,USA,OH,Columbus,StartingStrength.com Pro Raw Challenge,NAPF,IPF,Yes,Yes
+1327,2019-08-06,Costa Rica,,San Jose,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1328,1989-05-06,Canada,BC,Vancouver,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1329,2015-03-08,USA,OH,Columbus,Titan Pro Bench,NAPF,IPF,Yes,Yes
+1330,2018-08-01,Mexico,,Mexico City,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1331,2003-03-01,USA,PA,King of Prussia,North American Cup,NAPF,IPF,Yes,Yes
+1332,2014-03-02,USA,OH,Columbus,Rogue Pro American,NAPF,IPF,Yes,Yes
+1333,2017-03-04,USA,OH,Columbus,Arnold Grand Prix,NAPF,IPF,Yes,Yes
+1334,2011-07-07,USA,FL,Miami,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1335,2007-06-20,Guatemala,,Guatemala City,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1336,2014-03-02,USA,OH,Columbus,Titan Pro Bench Bash,NAPF,IPF,Yes,Yes
+1337,2024-08-04,USA,AZ,Scottsdale,21st Annual North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1338,2009-05-16,US Virgin Islands,,Charlotte Amalie,Caribbean Islands Powerlifting Championships,NAPF,IPF,Yes,Yes
+1339,2005-06-18,USA,FL,Miami,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1340,2014-03-01,USA,OH,Columbus,GNC Pro Deadlift,NAPF,IPF,Yes,Yes
+1341,2023-10-20,Mexico,,Mexico City,North American Regional Bench Press Championships,NAPF,IPF,Yes,Yes
+1342,2014-07-09,US Virgin Islands,,St. Croix,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1343,2015-11-20,Puerto Rico,,Ponce,North American Bench Press Championships,NAPF,IPF,Yes,Yes
+1344,1979-05-26,Canada,ON,Hamilton,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1345,2006-06-15,Puerto Rico,,Dorado,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1346,2016-10-27,Costa Rica,,San Jose,Central American Sub-Juniors & Juniors Powerlifting Championships,NAPF,IPF,Yes,Yes
+1347,2016-08-15,US Virgin Islands,,St Croix,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1348,2010-08-04,Puerto Rico,,Aguadilla,Central American and Caribbean Powerlifting Championships,NAPF,IPF,Yes,Yes
+1349,2008-03-04,USA,OH,Columbus,Arnold International Pro Deadlift,NAPF,IPF,Yes,Yes
+1350,2021-08-17,USA,FL,Orlando,Pan-American Championships,NAPF,IPF,Yes,Yes
+1351,2011-03-26,Cayman Islands,,Georgetown,Caribbean Islands Powerlifting Championships,NAPF,IPF,Yes,Yes
+1352,1993-09-17,USA,MD,Rockville,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1353,2006-04-19,USA,FL,Miami,Pan-American Masters Bench Press Championships,NAPF,IPF,Yes,Yes
+1354,2011-10-08,USA,FL,Miami,North American Bench Press Championships,NAPF,IPF,Yes,Yes
+1355,2019-10-25,Panama,,Panama City,North American Regional Bench Press Championships,NAPF,IPF,Yes,Yes
+1356,2008-06-18,Aruba,,Oranjestad,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1357,2017-03-05,USA,OH,Columbus,Arnold - Titan Pro Bench Bash,NAPF,IPF,Yes,Yes
+1358,2008-09-26,Costa Rica,,Cartago,Pan-American Bench Press Championships,NAPF,IPF,Yes,Yes
+1359,1975-04-18,Puerto Rico,,Aguadilla,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1360,2021-10-16,Costa Rica,,San Jose,8th Annual Pan-American Regional Bench Press Championships,NAPF,IPF,Yes,Yes
+1361,2015-03-06,USA,OH,Columbus,Arnold - Raw Challenge,NAPF,IPF,Yes,Yes
+1362,2018-10-25,Costa Rica,,San Jose,Pan American Bench Press Championships,NAPF,IPF,Yes,Yes
+1363,2009-03-08,USA,OH,Columbus,Titan Pro Bench Bash,NAPF,IPF,Yes,Yes
+1364,2005-11-09,USA,FL,Miami,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1365,2013-03-03,USA,OH,Columbus,GNC Pro Deadlift,NAPF,IPF,Yes,Yes
+1366,2013-03-03,USA,OH,Columbus,Titan Pro Bench Bash,NAPF,IPF,Yes,Yes
+1367,2017-03-04,USA,OH,Columbus,Arnold SSP Nutrition Pro Raw Bench,NAPF,IPF,Yes,Yes
+1368,2016-03-05,USA,OH,Columbus,Arnolds SSP Nutrition Pro Raw Bench,NAPF,IPF,Yes,Yes
+1369,2012-03-30,Cayman Islands,,Charlotte Amalie,Caribbean Islands Powerlifting Championships,NAPF,IPF,Yes,Yes
+1370,2012-07-23,Cayman Islands,,George Town,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1371,2011-03-05,USA,OH,Columbus,Brown's Gym Pro Invitational,NAPF,IPF,Yes,Yes
+1372,1976-04-15,Venezuela,,Valencia,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1373,2013-11-24,USA,FL,Miami,North American Bench Press Championships,NAPF,IPF,Yes,Yes
+1374,2010-03-22,Guyana,,Georgetown,Caribbean Islands Powerlifting Championships,NAPF,IPF,Yes,Yes
+1375,2016-03-05,USA,OH,Columbus,Arnolds StartingStrength.com Pro Raw Challenge,NAPF,IPF,Yes,Yes
+1376,2016-03-06,USA,OH,Columbus,Arnolds Slingshot Pro Deadlift,NAPF,IPF,Yes,Yes
+1377,2014-03-02,USA,OH,Columbus,SSP Nutrition Raw Bench Press,NAPF,IPF,Yes,Yes
+1378,2018-03-03,USA,OH,Columbus,The Arnold Grand Prix by SBD,NAPF,IPF,Yes,Yes
+1379,2017-10-25,Canada,ON,Toronto,North American Bench Press Championships,NAPF,IPF,Yes,Yes
+1380,2010-01-01,El Salvador,,San Salvador,William Hernandez International Championships,NAPF,IPF,Yes,Yes
+1381,2025-10-23,Panama,,,Bench Press Championships,NAPF,IPF,Yes,Yes
+1382,2013-07-01,USA,FL,Orlando,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1383,2017-03-03,USA,OH,Columbus,Arnold A7 Bar Grip Pro Raw Challenge,NAPF,IPF,Yes,Yes
+1384,2010-03-06,USA,OH,Columbus,Quest Pro Invitational,NAPF,IPF,Yes,Yes
+1385,2018-03-03,USA,OH,Columbus,The Arnold SSP Nutrition Pro Raw Bench,NAPF,IPF,Yes,Yes
+1386,2025-07-27,Cayman Islands,,George Town,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1387,2015-03-06,USA,OH,Columbus,SSP Raw Bench Bress,NAPF,IPF,Yes,Yes
+1388,2013-03-02,USA,OH,Columbus,Pro American,NAPF,IPF,Yes,Yes
+1389,2009-08-04,USA,FL,Miami,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1390,1978-05-21,USA,HI,Honolulu,North American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1391,2007-10-26,Aruba,,Oranjestad,North American Bench Press Championships,NAPF,IPF,Yes,Yes
+1392,2004-10-08,Guatemala,,Guatemala City,Central American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1393,1977-04-30,USA,TX,Arlington,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes
+1394,2006-10-19,Costa Rica,,San Jose,North American Bench Press Championships,NAPF,IPF,Yes,Yes
+1395,2009-10-10,Mexico,,Acapulco,North American Bench Press Championships,NAPF,IPF,Yes,Yes
+1396,2010-10-07,USA,NJ,Princetown,North American Invitational Bench Press Championships,NAPF,IPF,Yes,Yes
+1397,2010-10-07,British Virgin Islands,,Roadtown,Pan-American Bench Press Championships,NAPF,IPF,Yes,Yes
+1398,2011-03-06,USA,OH,Columbus,Titan Pro Bench,NAPF,IPF,Yes,Yes
+1399,2007-04-28,Aruba,,Oranjestad,Caribbean Island Powerlifting Championships,NAPF,IPF,Yes,Yes
+1400,2012-03-03,USA,OH,Columbus,Browns Gym Pro Invitational,NAPF,IPF,Yes,Yes
+1401,2000-04-05,USA,IL,Chicago,Pan-American Powerlifting Championships,NAPF,IPF,Yes,Yes

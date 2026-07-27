@@ -1,0 +1,32 @@
+# Python
+__pycache__
+.py[cod]
+.pyo
+.pyd
+
+# Virtual environments
+.venv
+venv
+env
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEeditor files
+.vscode
+.idea
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Raw and generated data
+data/raw
+
+# Optional local databaseexport files
+.sqlite
+.db
+.sql.gz
