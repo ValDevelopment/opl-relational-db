@@ -159,7 +159,81 @@ SELECT
             ELSE NULL
         END
     ) * 100 AS pct_deadlift
-
 FROM results AS r
 WHERE r.Event = 'SBD'
 GROUP BY r.Equipment;
+
+
+WITH equipment_averages AS (
+    SELECT
+        r.Equipment,
+        AVG(r.TotalKg) AS avg_total
+    FROM results AS r
+    WHERE r.Event = 'SBD'
+      AND r.TotalKg IS NOT NULL
+    GROUP BY r.Equipment
+),
+overall_average AS (
+    SELECT
+        AVG(r.TotalKg) AS overall_avg_total
+    FROM results AS r
+    WHERE r.Event = 'SBD'
+      AND r.TotalKg IS NOT NULL
+)
+SELECT
+    e.Equipment,
+    e.avg_total
+FROM equipment_averages AS e
+CROSS JOIN overall_average AS o
+WHERE e.avg_total > o.overall_avg_total
+ORDER BY e.avg_total DESC;
+
+
+WITH equipment_averages AS (
+    SELECT
+    r.Equipment,
+    AVG(r.TotalKg) AS avg_total
+    FROM results AS r
+    WHERE r.Event = 'SBD'
+    GROUP BY r.Equipment
+)
+SELECT *
+FROM equipment_averages
+ORDER BY avg_total DESC;
+
+WITH raw_sbd AS (
+	SELECT
+    r.TotalKg,
+    r.lifter_id
+    FROM results AS r
+    WHERE r.Equipment = 'raw'
+    AND r.Event = 'SBD'
+)
+SELECT 
+	l.Sex,
+    AVG(raw.TotalKg) AS avg_total
+    FROM raw_sbd AS raw
+    JOIN lifters AS l
+    ON raw.lifter_id = l.lifter_id
+    GROUP BY l.Sex
+    ORDER BY avg_total DESC;
+    
+    
+    
+
+WITH sanctioned_meets AS (
+	SELECT 
+    m.Sanctioned,
+    m.meet_id,
+    m.Federation
+    FROM meets as m
+    WHERE m.Sanctioned = 'Yes'
+)
+SELECT
+    r.meet_id,
+    COUNT(*) AS result_count
+FROM results AS r
+JOIN sanctioned_meets AS sm
+    ON r.meet_id = sm.meet_id
+GROUP BY sm.Federation
+ORDER BY result_count;
