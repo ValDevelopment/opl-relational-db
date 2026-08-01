@@ -83,3 +83,10 @@ SELECT
 FROM results AS r
 WHERE r.Event = 'SBD'
 GROUP BY r.Equipment;
+
+
+ALTER USER 'root'@'localhost'
+IDENTIFIED BY 'ILoveBfa14082018!';
+
+SHOW DATABASES;
+
