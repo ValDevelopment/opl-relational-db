@@ -121,6 +121,31 @@ Example analyses include:
 - summaries restricted to sanctioned meets
 - top-ranked SBD performances within each equipment category
 
+### Part 6: Power BI Dashboard
+
+The MySQL database was connected directly to Power BI Desktop to create an
+interactive reporting layer on top of the relational model.
+
+The dashboard currently contains three report pages:
+
+- Overview: participation totals, lifter and meet counts, equipment distribution,
+  sex distribution, federation filters, and yearly participation trends
+- Performance Analysis: bodyweight versus total, average totals by equipment,
+  average DOTS by weight class, and top performances
+- Attempt Analysis: success-rate measures for first, second, and third attempts
+
+Power BI uses the existing relationships between the lifters, meets, and results
+tables. DAX measures were created to calculate attempt success rates while
+distinguishing failed attempts from missing attempts.
+
+#### Dashboard Preview
+
+![Power BI overview dashboard](docs/overview.png)
+
+![Power BI performance analysis](docs/performance-analysis.png)
+
+![Power BI attempt analysis](docs/attempt-analysis.png)
+
 ## Key Findings
 
 | Analysis | Result |
