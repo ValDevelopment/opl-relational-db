@@ -142,9 +142,9 @@ distinguishing failed attempts from missing attempts.
 
 ![Power BI overview dashboard](docs/overview.png)
 
-![Power BI performance analysis](docs/performance-analysis.png)
+![Power BI performance analysis](docs/performance_analysis.png)
 
-![Power BI attempt analysis](docs/attempt-analysis.png)
+![Power BI attempt analysis](docs/att_analysis.png)
 
 ## Key Findings
 
